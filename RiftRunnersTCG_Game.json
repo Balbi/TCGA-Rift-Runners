@@ -8,8 +8,8 @@
   "customHelp": "",
   "cardRotation": "90",
   "cards": {
-    "dataUrl": "",
-    "cardBack": ""
+    "dataUrl": "https://balbi.github.io/TCGA-Rift-Runners/RiftRunnersTCG_Cards.json",
+    "cardBack": "https://balbi.github.io/TCGA-Rift-Runners/backs/default.jpg"
   },
   "deckBuilding": {
     "mainFilters": [],
