@@ -84,94 +84,140 @@
           "content": [
             {
               "direction": "column",
-              "style": {"width": "12vh", "justifyContent": "end"},
+              "style": {
+                "width": "22vh",
+                "justifyContent": "end"
+              },
               "content": [
                 {
-                  "section": "Monarch",
-                  "style": false
+                  "section": "Monarch"
                 },
                 {
-                  "section": "Fodder",
-                  "style": false
+                  "section": "Fodder"
                 }
               ],
               "isSymetricalForOpponents": false
             },
             {
-              "direction": "column",
-              "style": {"width": "12vh"},
+              "direction": "row",
+              "style": {
+                "justifyContent": "center"
+              },
               "content": [
                 {
-                  "section": "C1R1",
-                  "style": false
+                  "direction": "column",
+                  "style": {
+                    "width": "12vh",
+                    "marginLeft": "4vh",
+                    "marginRight": "4vh"
+                  },
+                  "content": [
+                    {
+                      "section": "C1R1",
+                      "style": {
+                        "width": "12vh"
+                      }
+                    },
+                    {
+                      "section": "C1R2",
+                      "style": {
+                        "width": "12vh"
+                      }
+                    },
+                    {
+                      "section": "C1R3",
+                      "style": {
+                        "width": "12vh"
+                      }
+                    }
+                  ],
+                  "isSymetricalForOpponents": false
                 },
                 {
-                  "section": "C1R2",
-                  "style": false
+                  "direction": "column",
+                  "style": {
+                    "width": "12vh",
+                    "marginRight": "4vh"
+                  },
+                  "content": [
+                    {
+                      "section": "C2R1",
+                      "style": {
+                        "width": "12vh"
+                      }
+                    },
+                    {
+                      "section": "C2R2",
+                      "style": {
+                        "width": "12vh"
+                      }
+                    },
+                    {
+                      "section": "C2R3",
+                      "style": {
+                        "width": "12vh"
+                      }
+                    }
+                  ],
+                  "isSymetricalForOpponents": false
                 },
                 {
-                  "section": "C1R3",
-                  "style": false
+                  "direction": "column",
+                  "style": {
+                    "width": "12vh",
+                    "marginRight": "4vh"
+                  },
+                  "content": [
+                    {
+                      "section": "C3R1",
+                      "style": {
+                        "width": "12vh"
+                      }
+                    },
+                    {
+                      "section": "C3R2",
+                      "style": {
+                        "width": "12vh"
+                      }
+                    },
+                    {
+                      "section": "C3R3",
+                      "style": {
+                        "width": "12vh"
+                      }
+                    }
+                  ],
+                  "isSymetricalForOpponents": false
+                },
+                {
+                  "direction": "column",
+                  "style": {
+                    "width": "12vh",
+                    "marginRight": "4vh"
+                  },
+                  "content": [
+                    {
+                      "section": "C4R1",
+                      "style": {
+                        "width": "12vh"
+                      }
+                    },
+                    {
+                      "section": "C4R2",
+                      "style": {
+                        "width": "12vh"
+                      }
+                    },
+                    {
+                      "section": "C4R3",
+                      "style": {
+                        "width": "12vh"
+                      }
+                    }
+                  ],
+                  "isSymetricalForOpponents": false
                 }
-              ],
-              "isSymetricalForOpponents": false
-            },
-            {
-              "direction": "column",
-              "style": {"width": "12vh"},
-              "content": [
-                {
-                  "section": "C2R1",
-                  "style": false
-                },
-                {
-                  "section": "C2R2",
-                  "style": false
-                },
-                {
-                  "section": "C2R3",
-                  "style": false
-                }
-              ],
-              "isSymetricalForOpponents": false
-            },
-            {
-              "direction": "column",
-              "style": {"width": "12vh"},
-              "content": [
-                {
-                  "section": "C3R1",
-                  "style": false
-                },
-                {
-                  "section": "C3R2",
-                  "style": false
-                },
-                {
-                  "section": "C3R3",
-                  "style": false
-                }
-              ],
-              "isSymetricalForOpponents": false
-            },
-            {
-              "direction": "column",
-              "style": {"width": "12vh"},
-              "content": [
-                {
-                  "section": "C4R1",
-                  "style": false
-                },
-                {
-                  "section": "C4R2",
-                  "style": false
-                },
-                {
-                  "section": "C4R3",
-                  "style": false
-                }
-              ],
-              "isSymetricalForOpponents": false
+              ]
             }
           ]
         },
