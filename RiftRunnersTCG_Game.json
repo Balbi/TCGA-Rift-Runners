@@ -84,7 +84,7 @@
           "content": [
             {
               "direction": "column",
-              "style": false,
+              "style": {"width": "12vh", "justifyContent": "end"},
               "content": [
                 {
                   "section": "Monarch",
@@ -99,7 +99,7 @@
             },
             {
               "direction": "column",
-              "style": false,
+              "style": {"width": "12vh"},
               "content": [
                 {
                   "section": "C1R1",
@@ -118,7 +118,7 @@
             },
             {
               "direction": "column",
-              "style": false,
+              "style": {"width": "12vh"},
               "content": [
                 {
                   "section": "C2R1",
@@ -137,7 +137,7 @@
             },
             {
               "direction": "column",
-              "style": false,
+              "style": {"width": "12vh"},
               "content": [
                 {
                   "section": "C3R1",
@@ -156,7 +156,7 @@
             },
             {
               "direction": "column",
-              "style": false,
+              "style": {"width": "12vh"},
               "content": [
                 {
                   "section": "C4R1",
@@ -197,11 +197,11 @@
           "Monarch": {
             "title": "Monarch",
             "isHidden": "no",
-            "height": "SMALL",
+            "height": "MEDIUM",
             "alignment": "DECK",
             "opponentAlignment": false,
             "noAutoPayTo": "true",
-            "isHorizontalAllowed": true,
+            "isHorizontalAllowed": false,
             "displayedTitle": "",
             "enterTapped": false,
             "enterSpun": false,
@@ -213,11 +213,11 @@
           "Fodder": {
             "title": "Fodder",
             "isHidden": "yes",
-            "height": "SMALL",
+            "height": "MEDIUM",
             "alignment": "DECK",
             "opponentAlignment": false,
             "noAutoPayTo": true,
-            "isHorizontalAllowed": true,
+            "isHorizontalAllowed": false,
             "displayedTitle": "",
             "noQuickActions": false,
             "enterTapped": false,
