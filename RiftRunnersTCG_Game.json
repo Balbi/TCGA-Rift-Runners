@@ -198,7 +198,7 @@
             "title": "Monarch",
             "isHidden": "no",
             "height": "MEDIUM",
-            "alignment": "DECK",
+            "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": "true",
             "isHorizontalAllowed": false,
