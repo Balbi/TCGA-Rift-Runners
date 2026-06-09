@@ -1,0 +1,16 @@
+{
+  "name": "tcga-rift-runners",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "download:cards": "tsx scripts/download-cards.ts",
+    "dry-run:cards": "tsx scripts/download-cards.ts --dry-run",
+    "check": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "@types/node": "^25.9.2",
+    "tsx": "^4.22.4",
+    "typescript": "^6.0.3"
+  }
+}

@@ -1,0 +1,374 @@
+{
+  "name": "Rift Runners TCG",
+  "menuBackgroundImage": "",
+  "defaultRessources": {
+    "backgrounds": [],
+    "decksUrl": ""
+  },
+  "customHelp": "",
+  "cardRotation": "90",
+  "cards": {
+    "dataUrl": "",
+    "cardBack": ""
+  },
+  "deckBuilding": {
+    "mainFilters": [],
+    "formats": []
+  },
+  "gameplay": {
+    "Standard": {
+      "mulligan": {
+        "info": "",
+        "startingHandSize": "5",
+        "drawNewHand": false,
+        "putSelectionAtBottom": false,
+        "drawNewSelectedCards": false
+      },
+      "newTurn": {
+        "drawOnStart": false,
+        "sharedTurn": false,
+        "firstPlayerTokenName": "",
+        "drawPerTurn": 1
+      },
+      "defaultNotes": "",
+      "tokens": [],
+      "countersStartingValues": [
+        "1"
+      ],
+      "hideFacedDownCards": false,
+      "sections": {
+        "customSections": [],
+        "layout": {
+          "direction": "row",
+          "isSymetricalForOpponents": false,
+          "content": [
+            {
+              "direction": "column",
+              "style": false,
+              "content": [
+                {
+                  "section": "Monarch",
+                  "style": false
+                },
+                {
+                  "section": "Fodder",
+                  "style": false
+                }
+              ],
+              "isSymetricalForOpponents": false
+            },
+            {
+              "direction": "column",
+              "style": false,
+              "content": [
+                {
+                  "section": "C1R1",
+                  "style": false
+                },
+                {
+                  "section": "C1R2",
+                  "style": false
+                },
+                {
+                  "section": "C1R3",
+                  "style": false
+                }
+              ],
+              "isSymetricalForOpponents": false
+            },
+            {
+              "direction": "column",
+              "style": false,
+              "content": [
+                {
+                  "section": "C2R1",
+                  "style": false
+                },
+                {
+                  "section": "C2R2",
+                  "style": false
+                },
+                {
+                  "section": "C2R3",
+                  "style": false
+                }
+              ],
+              "isSymetricalForOpponents": false
+            },
+            {
+              "direction": "column",
+              "style": false,
+              "content": [
+                {
+                  "section": "C3R1",
+                  "style": false
+                },
+                {
+                  "section": "C3R2",
+                  "style": false
+                },
+                {
+                  "section": "C3R3",
+                  "style": false
+                }
+              ],
+              "isSymetricalForOpponents": false
+            },
+            {
+              "direction": "column",
+              "style": false,
+              "content": [
+                {
+                  "section": "C4R1",
+                  "style": false
+                },
+                {
+                  "section": "C4R2",
+                  "style": false
+                },
+                {
+                  "section": "C4R3",
+                  "style": false
+                }
+              ],
+              "isSymetricalForOpponents": false
+            }
+          ]
+        },
+        "categoriesAlreadyOnBoard": [
+          "Deck",
+          "Fodder",
+          "Monarch"
+        ],
+        "autoPlayFromHand": {},
+        "autoPlayFromStack": {},
+        "sectionsDict": {
+          "Monarch": {
+            "title": "Monarch",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": "true",
+            "isHorizontalAllowed": true,
+            "displayedTitle": "",
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false,
+            "noQuickActions": true
+          },
+          "8de28b45-815f-45f8-a62c-674709ef8126": {
+            "title": "Fodder",
+            "isHidden": "yes",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "6ad8fbfd-4682-4f45-9553-639964e63170": {
+            "title": "C1R1",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Front",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "5ecf94b3-e6d3-47e4-8ee0-e65e4fb3d7a4": {
+            "title": "C1R2",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Back",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "145ab046-5f10-4fbd-ae90-b30a5f1d64c3": {
+            "title": "C1R3",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "A/C",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "17e972d6-d764-4077-b4c1-460c6175b705": {
+            "title": "C2R1",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Front",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "4c7e7812-3e37-4a59-9ef1-8e204bcd875a": {
+            "title": "C2R2",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Back",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "ae35fb7c-d046-4998-97b3-32426806eed6": {
+            "title": "C2R3",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "A/C",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "0f715314-800f-4e1d-88db-2eb51c859f2d": {
+            "title": "C3R1",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Front",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "22671a7a-6dfd-478f-a1a0-f18d7a59d304": {
+            "title": "C3R2",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Back",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "9b4aec29-4344-41e3-a5ce-1edda1a32453": {
+            "title": "C3R3",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "A/C",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "a6a121dc-c97e-4fea-82fc-8a260cdcf79f": {
+            "title": "C4R1",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Front",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "fe5ee64e-0548-4183-82e7-c062dd837f5d": {
+            "title": "C4R2",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Back",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "e0dd167e-3def-4e28-b803-11b2342ac2d9": {
+            "title": "C4R3",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "A/C",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          }
+        }
+      }
+    }
+  }
+}
