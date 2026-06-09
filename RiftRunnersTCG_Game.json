@@ -176,7 +176,6 @@
           ]
         },
         "categoriesAlreadyOnBoard": [
-          "Deck",
           "Fodder",
           "Monarch"
         ],
@@ -187,7 +186,7 @@
             "title": "Monarch",
             "isHidden": "no",
             "height": "SMALL",
-            "alignment": "CENTER",
+            "alignment": "DECK",
             "opponentAlignment": false,
             "noAutoPayTo": "true",
             "isHorizontalAllowed": true,
@@ -203,7 +202,7 @@
             "title": "Fodder",
             "isHidden": "yes",
             "height": "SMALL",
-            "alignment": "CENTER",
+            "alignment": "DECK",
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": true,
