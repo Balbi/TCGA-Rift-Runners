@@ -177,7 +177,19 @@
         },
         "categoriesAlreadyOnBoard": [
           "Fodder",
-          "Monarch"
+          "Monarch",
+          "C1R1",
+          "C1R2",
+          "C1R3",
+          "C2R1",
+          "C2R2",
+          "C2R3",
+          "C3R1",
+          "C3R2",
+          "C3R3",
+          "C4R1",
+          "C4R2",
+          "C4R3"
         ],
         "autoPlayFromHand": {},
         "autoPlayFromStack": {},
@@ -198,7 +210,7 @@
             "showHiddenCardInHistory": false,
             "noQuickActions": true
           },
-          "8de28b45-815f-45f8-a62c-674709ef8126": {
+          "Fodder": {
             "title": "Fodder",
             "isHidden": "yes",
             "height": "SMALL",
@@ -214,7 +226,7 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
-          "6ad8fbfd-4682-4f45-9553-639964e63170": {
+          "C1R1": {
             "title": "C1R1",
             "isHidden": "no",
             "height": "SMALL",
@@ -230,7 +242,7 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
-          "5ecf94b3-e6d3-47e4-8ee0-e65e4fb3d7a4": {
+          "C1R2": {
             "title": "C1R2",
             "isHidden": "no",
             "height": "SMALL",
@@ -246,7 +258,7 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
-          "145ab046-5f10-4fbd-ae90-b30a5f1d64c3": {
+          "C1R3": {
             "title": "C1R3",
             "isHidden": "no",
             "height": "SMALL",
@@ -262,7 +274,7 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
-          "17e972d6-d764-4077-b4c1-460c6175b705": {
+          "C2R1": {
             "title": "C2R1",
             "isHidden": "no",
             "height": "SMALL",
@@ -278,7 +290,7 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
-          "4c7e7812-3e37-4a59-9ef1-8e204bcd875a": {
+          "C2R2": {
             "title": "C2R2",
             "isHidden": "no",
             "height": "SMALL",
@@ -294,7 +306,7 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
-          "ae35fb7c-d046-4998-97b3-32426806eed6": {
+          "C2R3": {
             "title": "C2R3",
             "isHidden": "no",
             "height": "SMALL",
@@ -310,7 +322,7 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
-          "0f715314-800f-4e1d-88db-2eb51c859f2d": {
+          "C3R1": {
             "title": "C3R1",
             "isHidden": "no",
             "height": "SMALL",
@@ -326,7 +338,7 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
-          "22671a7a-6dfd-478f-a1a0-f18d7a59d304": {
+          "C3R2": {
             "title": "C3R2",
             "isHidden": "no",
             "height": "SMALL",
@@ -342,7 +354,7 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
-          "9b4aec29-4344-41e3-a5ce-1edda1a32453": {
+          "C3R3": {
             "title": "C3R3",
             "isHidden": "no",
             "height": "SMALL",
@@ -358,7 +370,7 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
-          "a6a121dc-c97e-4fea-82fc-8a260cdcf79f": {
+          "C4R1": {
             "title": "C4R1",
             "isHidden": "no",
             "height": "SMALL",
@@ -374,7 +386,7 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
-          "fe5ee64e-0548-4183-82e7-c062dd837f5d": {
+          "C4R2": {
             "title": "C4R2",
             "isHidden": "no",
             "height": "SMALL",
@@ -390,7 +402,7 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
-          "e0dd167e-3def-4e28-b803-11b2342ac2d9": {
+          "C4R3": {
             "title": "C4R3",
             "isHidden": "no",
             "height": "SMALL",
