@@ -1,10 +1,12 @@
-import { readFile, writeFile } from "node:fs/promises";
+import { mkdir, readFile, writeFile } from "node:fs/promises";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 
 const SOURCE_URL = "https://riftrunnerstcg.infinitecards.ca/_root.data";
 const ACTION_URL = "https://riftrunnerstcg.infinitecards.ca/_root.data?index";
 const OUTPUT_FILE = "RiftRunnersTCG_Cards.json";
+const CARD_IMAGES_FOLDER = "cards";
+const PUBLIC_CARD_IMAGE_BASE_URL = "https://balbi.github.io/TCGA-Rift-Runners/cards";
 const PROJECT_ROOT = fileURLToPath(new URL("..", import.meta.url));
 
 type EncodedValue =
@@ -73,12 +75,42 @@ type RiftRunnersCard = {
   Tier: number;
 };
 
-type CardsFile = Record<string, RiftRunnersCard>;
+type TokenCard = {
+  id?: string;
+  isToken: true;
+  [key: string]: unknown;
+};
+
+type CardFileEntry = RiftRunnersCard | TokenCard;
+
+type CardsFile = Record<string, CardFileEntry>;
 
 type GeneratedCards = {
   cardsFile: CardsFile;
   sets: string[];
   duplicateIds: string[];
+  imageSourcesById: Map<string, string>;
+};
+
+type ImageDownload = {
+  id: string;
+  url: string;
+  filename: string;
+  outputPath: string;
+};
+
+type ImageDownloadPlan = {
+  downloads: ImageDownload[];
+  duplicateTargets: Array<{
+    filename: string;
+    keptId: string;
+    skippedId: string;
+  }>;
+};
+
+type ImageDownloadResult = {
+  downloaded: number;
+  skippedDuplicateTargets: number;
 };
 
 const KISKA_EXPECTED: RiftRunnersCard = {
@@ -89,7 +121,7 @@ const KISKA_EXPECTED: RiftRunnersCard = {
       name: "Kitten Frog Kiska",
       type: "Fighter",
       cost: 0,
-      image: "https://cdn.buylist.ca/Single_Card_Images/watermarked/riftrunners/mystic-uprising/Kitten_Frog_Kiska_Mystic_Uprising_160__LR054MU1_600.webp",
+      image: "https://balbi.github.io/TCGA-Rift-Runners/cards/LR054MU1.webp",
       isHorizontal: false
     }
   },
@@ -108,16 +140,22 @@ const KISKA_EXPECTED: RiftRunnersCard = {
 
 async function main() {
   const isDryRun = process.argv.includes("--dry-run");
-  const { cardsFile, sets, duplicateIds } = await generateCards();
+  const { cardsFile, sets, duplicateIds, imageSourcesById } = await generateCards();
+  const outputPath = path.join(PROJECT_ROOT, OUTPUT_FILE);
+  const existing = await readExistingCardsFile(outputPath);
+  const preservedCards = getPreservedCards(existing);
+  const outputCards = { ...cardsFile, ...preservedCards };
+  const imagePlan = createImageDownloadPlan(cardsFile, imageSourcesById);
 
   if (isDryRun) {
-    await dryRun(cardsFile, sets, duplicateIds);
+    await dryRun(outputCards, existing, sets, duplicateIds, imagePlan);
     return;
   }
 
-  const outputPath = path.join(PROJECT_ROOT, OUTPUT_FILE);
-  await writeFile(outputPath, `${JSON.stringify(cardsFile, null, 2)}\n`, "utf8");
-  console.log(`Wrote ${Object.keys(cardsFile).length} cards to ${OUTPUT_FILE}`);
+  await writeFile(outputPath, `${JSON.stringify(outputCards, null, 2)}\n`, "utf8");
+  const imageResult = await downloadCardImages(imagePlan);
+  console.log(`Wrote ${Object.keys(outputCards).length} cards to ${OUTPUT_FILE} (${Object.keys(preservedCards).length} preserved local/token cards)`);
+  console.log(`Downloaded ${imageResult.downloaded} card images to ${CARD_IMAGES_FOLDER}/ (${imageResult.skippedDuplicateTargets} duplicate target skipped)`);
 }
 
 async function generateCards(): Promise<GeneratedCards> {
@@ -126,6 +164,7 @@ async function generateCards(): Promise<GeneratedCards> {
   const sourceCards = await fetchCardsForSets(sets);
   const cardsFile: CardsFile = {};
   const duplicateIds: string[] = [];
+  const imageSourcesById = new Map<string, string>();
 
   for (const sourceCard of sourceCards) {
     const card = mapCard(sourceCard);
@@ -133,22 +172,26 @@ async function generateCards(): Promise<GeneratedCards> {
       duplicateIds.push(card.id);
     }
     cardsFile[card.id] = card;
+    imageSourcesById.set(card.id, image600Url(sourceCard.thumbnailUrl ?? sourceCard.imageUrl ?? sourceCard.image));
   }
 
-  return { cardsFile, sets, duplicateIds };
+  return { cardsFile, sets, duplicateIds, imageSourcesById };
 }
 
-async function dryRun(generated: CardsFile, sets: string[], duplicateIds: string[]) {
-  const outputPath = path.join(PROJECT_ROOT, OUTPUT_FILE);
-  const existing = JSON.parse(await readFile(outputPath, "utf8")) as CardsFile;
+async function dryRun(generated: CardsFile, existing: CardsFile, sets: string[], duplicateIds: string[], imagePlan: ImageDownloadPlan) {
   const generatedIds = Object.keys(generated);
   const existingIds = Object.keys(existing);
+  const preservedCards = getPreservedCards(existing);
   const sharedIds = existingIds.filter((id) => generated[id]);
   const conflicts = sharedIds.flatMap((id) => compareCards(id, existing[id], generated[id]));
-  const missingExistingIds = existingIds.filter((id) => !generated[id]);
+  const missingExistingIds = existingIds.filter((id) => !generated[id] && !isTokenCard(existing[id]) && !isLocalImageCard(existing[id]));
   const newIds = generatedIds.filter((id) => !existing[id]);
-  const badImages = generatedIds.filter((id) => !generated[id].face.front.image.endsWith("_600.webp"));
-  const kiska = generated["#LR054MU1"];
+  const generatedCardIds = generatedIds.filter((id) => isDownloadedCard(generated[id]));
+  const badImages = generatedCardIds.filter((id) => {
+    const card = generated[id];
+    return isDownloadedCard(card) && card.face.front.image !== publicCardImageUrl(id);
+  });
+  const kiska = generated["#LR054MU1"] as RiftRunnersCard | undefined;
   const kiskaConflicts = compareCards("#LR054MU1", KISKA_EXPECTED, kiska);
 
   console.log(
@@ -157,7 +200,10 @@ async function dryRun(generated: CardsFile, sets: string[], duplicateIds: string
         dryRun: true,
         wouldWrite: OUTPUT_FILE,
         sets,
-        generatedCount: generatedIds.length,
+        generatedCount: generatedCardIds.length,
+        preservedTokenCount: Object.values(preservedCards).filter((card) => isTokenCard(card)).length,
+        preservedLocalCardCount: Object.values(preservedCards).filter((card) => isLocalImageCard(card)).length,
+        totalOutputCount: generatedIds.length,
         existingCount: existingIds.length,
         newCount: newIds.length,
         missingExistingCount: missingExistingIds.length,
@@ -166,6 +212,12 @@ async function dryRun(generated: CardsFile, sets: string[], duplicateIds: string
         duplicateGeneratedIds: duplicateIds,
         non600WebpImageCount: badImages.length,
         non600WebpImageIds: badImages.slice(0, 20),
+        imageDownloads: {
+          folder: CARD_IMAGES_FOLDER,
+          wouldDownload: imagePlan.downloads.length,
+          duplicateTargetCount: imagePlan.duplicateTargets.length,
+          duplicateTargets: imagePlan.duplicateTargets.slice(0, 20)
+        },
         missingExistingIds,
         conflicts: conflicts.slice(0, 20),
         kittenFrogKiska: {
@@ -179,6 +231,81 @@ async function dryRun(generated: CardsFile, sets: string[], duplicateIds: string
       2
     )
   );
+}
+
+async function readExistingCardsFile(outputPath: string): Promise<CardsFile> {
+  try {
+    return JSON.parse(await readFile(outputPath, "utf8")) as CardsFile;
+  } catch (error: unknown) {
+    if (isNodeError(error) && error.code === "ENOENT") {
+      return {};
+    }
+
+    throw error;
+  }
+}
+
+function getPreservedCards(cardsFile: CardsFile): CardsFile {
+  return Object.fromEntries(Object.entries(cardsFile).filter(([, card]) => isTokenCard(card) || isLocalImageCard(card)));
+}
+
+function createImageDownloadPlan(cardsFile: CardsFile, imageSourcesById: Map<string, string>): ImageDownloadPlan {
+  const downloads: ImageDownload[] = [];
+  const duplicateTargets: ImageDownloadPlan["duplicateTargets"] = [];
+  const targets = new Map<string, string>();
+
+  for (const [id, card] of Object.entries(cardsFile)) {
+    if (!isDownloadedCard(card)) {
+      continue;
+    }
+
+    const filename = `${imageFileStemFromCardId(id)}${imageExtension(card.face.front.image)}`;
+    const outputPath = path.join(PROJECT_ROOT, CARD_IMAGES_FOLDER, filename);
+    const keptId = targets.get(filename);
+
+    if (keptId) {
+      duplicateTargets.push({ filename, keptId, skippedId: id });
+      continue;
+    }
+
+    targets.set(filename, id);
+    downloads.push({
+      id,
+      url: imageSourcesById.get(id) ?? card.face.front.image,
+      filename,
+      outputPath
+    });
+  }
+
+  return { downloads, duplicateTargets };
+}
+
+async function downloadCardImages(plan: ImageDownloadPlan): Promise<ImageDownloadResult> {
+  await mkdir(path.join(PROJECT_ROOT, CARD_IMAGES_FOLDER), { recursive: true });
+
+  const concurrency = 8;
+  let downloaded = 0;
+
+  for (let index = 0; index < plan.downloads.length; index += concurrency) {
+    const batch = plan.downloads.slice(index, index + concurrency);
+    await Promise.all(
+      batch.map(async (download) => {
+        const response = await fetch(download.url);
+        if (!response.ok) {
+          throw new Error(`Failed to download image for ${download.id}: ${response.status} ${response.statusText}`);
+        }
+
+        const bytes = Buffer.from(await response.arrayBuffer());
+        await writeFile(download.outputPath, bytes);
+        downloaded += 1;
+      })
+    );
+  }
+
+  return {
+    downloaded,
+    skippedDuplicateTargets: plan.duplicateTargets.length
+  };
 }
 
 async function fetchDatabaseData(): Promise<Record<string, unknown>> {
@@ -281,7 +408,7 @@ function mapCard(card: SourceCard): RiftRunnersCard {
         name,
         type: cardType,
         cost: 0,
-        image: image600Url(card.thumbnailUrl ?? card.imageUrl ?? card.image),
+        image: publicCardImageUrl(id),
         isHorizontal: false
       }
     },
@@ -299,7 +426,7 @@ function mapCard(card: SourceCard): RiftRunnersCard {
   };
 }
 
-function compareCards(id: string, expected: RiftRunnersCard | undefined, actual: RiftRunnersCard | undefined) {
+function compareCards(id: string, expected: CardFileEntry | undefined, actual: CardFileEntry | undefined) {
   if (!expected || !actual) {
     return [{ id, path: "", expected: expected ?? null, actual: actual ?? null }];
   }
@@ -359,8 +486,41 @@ function image600Url(value: unknown): string {
   return imageUrl;
 }
 
+function imageFileStemFromCardId(id: string): string {
+  return id.replace(/^#/, "");
+}
+
+function publicCardImageUrl(id: string): string {
+  return `${PUBLIC_CARD_IMAGE_BASE_URL}/${imageFileStemFromCardId(id)}.webp`;
+}
+
+function imageExtension(imageUrl: string): string {
+  try {
+    const extension = path.extname(new URL(imageUrl).pathname);
+    return extension || ".webp";
+  } catch {
+    return ".webp";
+  }
+}
+
 function numberValue(value: unknown): number {
   return typeof value === "number" ? value : 0;
+}
+
+function isDownloadedCard(card: CardFileEntry): card is RiftRunnersCard {
+  return card.isToken === false;
+}
+
+function isTokenCard(card: CardFileEntry): card is TokenCard {
+  return card.isToken === true;
+}
+
+function isLocalImageCard(card: CardFileEntry): card is RiftRunnersCard {
+  return isDownloadedCard(card) && (card.Set === "Valkyries of Steel" || card.face.front.image.startsWith(`${CARD_IMAGES_FOLDER}/`));
+}
+
+function isNodeError(error: unknown): error is NodeJS.ErrnoException {
+  return error instanceof Error && "code" in error;
 }
 
 main().catch((error: unknown) => {
