@@ -62,7 +62,8 @@
   "gameplay": {
     "Standard": {
       "beforeGameStart": {
-        "initialBoardSetup": [
+        "initialBoardSetup": {
+          "0": [
           {
             "createCardId": "XTOKEN",
             "count": 1,
@@ -125,7 +126,13 @@
           }
         ]
       },
-      "mulligan": {
+      "1": {
+        "drawFromTop": "Deck",
+        "count": 5,
+        "destination": "Hand"
+      }
+      },
+      "mulliganDISABLED": {
         "triggeredByButton": true,
         "startingHandSize": 5,
         "mulliganCount": {
