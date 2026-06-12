@@ -5,7 +5,7 @@
     "backgrounds": [
       "https://balbi.github.io/TCGA-Rift-Runners/backgrounds/playmat.jpg"
     ],
-    "decksUrl": ""
+    "decksUrl": "- To flip your Monarch, right click your Monarch and choose \"Flip\" or hold Ctrl+Z and click your Monarch\n- To create an \"X\" token, right click your Monarch, there will be a hovering X button that lets you create one.\n- To play a card face down from your hand, Hold \"Z\" and click the card in your hand to hide. Then drag it from your hand to the board.\n- To \"group\" cards together, hold \"G\" on the card you want to attach to another card, then while still holding \"G\" click on the card you want to attach it to (the reverse works for ungrouping).\n- To exile a card, hold \"R\" and click on the card.\n- To retrieve a card from exile, right click your Void zone (next to your deck) and choose \"Show Removed\"\n- To add a counters for like Unity/Rift tokens, there are two kinds, hold \"C\" (pink) or \"Ctrl+C\" (blue) and click a card (holding shift with these hotkeys removes counters). We should probably standardize which is which as a community.\n- To pause on your turn before drawing a card automatically, there's a Pause Timer icon in the top left\n- To draw an arrow from one card to another for targeting, there is an arrow icon that appears in the top left of a card when you hover"
   },
   "customHelp": "",
   "cardRotation": "90",
@@ -59,15 +59,72 @@
   },
   "gameplay": {
     "Standard": {
-      "mulligan": {
-        "info": "",
-        "startingHandSize": "5",
-        "drawNewHand": false,
-        "putSelectionAtBottom": false,
-        "drawNewSelectedCards": false
+      "beforeGameStart": {
+        "initialBoardSetup": [
+          {
+            "createCardId": "XTOKEN",
+            "count": 1,
+            "destination": "C1R1"
+          },
+          {
+            "createCardId": "XTOKEN",
+            "count": 1,
+            "destination": "C1R2"
+          },
+          {
+            "createCardId": "XTOKEN",
+            "count": 1,
+            "destination": "C1R3"
+          },
+          {
+            "createCardId": "XTOKEN",
+            "count": 1,
+            "destination": "C2R1"
+          },
+          {
+            "createCardId": "XTOKEN",
+            "count": 1,
+            "destination": "C2R2"
+          },
+          {
+            "createCardId": "XTOKEN",
+            "count": 1,
+            "destination": "C2R3"
+          },
+          {
+            "createCardId": "XTOKEN",
+            "count": 1,
+            "destination": "C3R1"
+          },
+          {
+            "createCardId": "XTOKEN",
+            "count": 1,
+            "destination": "C3R2"
+          },
+          {
+            "createCardId": "XTOKEN",
+            "count": 1,
+            "destination": "C3R3"
+          },
+          {
+            "createCardId": "XTOKEN",
+            "count": 1,
+            "destination": "C4R1"
+          },
+          {
+            "createCardId": "XTOKEN",
+            "count": 1,
+            "destination": "C4R2"
+          },
+          {
+            "createCardId": "XTOKEN",
+            "count": 1,
+            "destination": "C4R3"
+          }
+        ]
       },
       "newTurn": {
-        "drawOnStart": false,
+        "drawOnStart": true,
         "sharedTurn": false,
         "firstPlayerTokenName": "",
         "drawPerTurn": 1
@@ -82,7 +139,7 @@
         "customSections": [],
         "layout": {
           "direction": "row",
-          "isSymetricalForOpponents": true,
+          "isSymetricalForOpponents": false,
           "content": [
             {
               "direction": "column",
@@ -102,6 +159,7 @@
             },
             {
               "direction": "row",
+              "isSymetricalForOpponents": false,
               "style": {
                 "justifyContent": "center"
               },
