@@ -80,6 +80,7 @@ type RiftRunnersCard = {
   "Unity ATK": number;
   "Unity DEF": number;
   Tier: number;
+  tokens?: string[];
 };
 
 type TokenCard = {
@@ -443,7 +444,8 @@ function mapCard(card: SourceCard): RiftRunnersCard {
     DEF: numberValue(card.def ?? customAttributes.def),
     "Unity ATK": numberValue(card.unity_a ?? customAttributes.unityA),
     "Unity DEF": numberValue(card.unity_d ?? customAttributes.unityD),
-    Tier: numberValue(card.tier ?? customAttributes.tier)
+    Tier: numberValue(card.tier ?? customAttributes.tier),
+    ...(cardType === "Monarch" ? { tokens: ["XTOKEN"] } : {})
   };
 }
 

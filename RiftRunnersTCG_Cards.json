@@ -2956,7 +2956,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M006MU1": {
     "id": "#M006MU1",
@@ -2987,7 +2990,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M006SW1": {
     "id": "#M006SW1",
@@ -3018,7 +3024,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M008SW1": {
     "id": "#M008SW1",
@@ -3049,7 +3058,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M009MU1": {
     "id": "#M009MU1",
@@ -3080,7 +3092,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M011SW1": {
     "id": "#M011SW1",
@@ -3111,7 +3126,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M014MU1": {
     "id": "#M014MU1",
@@ -3142,7 +3160,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M014SW1": {
     "id": "#M014SW1",
@@ -3173,7 +3194,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M017MU1": {
     "id": "#M017MU1",
@@ -3204,7 +3228,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M018SW1": {
     "id": "#M018SW1",
@@ -3235,7 +3262,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M021SW1": {
     "id": "#M021SW1",
@@ -3266,7 +3296,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M022MU1": {
     "id": "#M022MU1",
@@ -3297,7 +3330,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M024MU1": {
     "id": "#M024MU1",
@@ -3328,7 +3364,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M024SW1": {
     "id": "#M024SW1",
@@ -3359,7 +3398,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M026MU1": {
     "id": "#M026MU1",
@@ -3390,7 +3432,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M027SW1": {
     "id": "#M027SW1",
@@ -3421,7 +3466,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M028MU1": {
     "id": "#M028MU1",
@@ -3452,7 +3500,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M029SW1": {
     "id": "#M029SW1",
@@ -3483,7 +3534,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M031MU1": {
     "id": "#M031MU1",
@@ -3514,7 +3568,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M032SW1": {
     "id": "#M032SW1",
@@ -3545,7 +3602,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M033MU1": {
     "id": "#M033MU1",
@@ -3576,7 +3636,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M034SW1": {
     "id": "#M034SW1",
@@ -3607,7 +3670,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M038MU1": {
     "id": "#M038MU1",
@@ -3638,7 +3704,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M039SW1": {
     "id": "#M039SW1",
@@ -3669,7 +3738,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M040MU1": {
     "id": "#M040MU1",
@@ -3700,7 +3772,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M041SW1": {
     "id": "#M041SW1",
@@ -3731,7 +3806,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M043SW1": {
     "id": "#M043SW1",
@@ -3762,7 +3840,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M044MU1": {
     "id": "#M044MU1",
@@ -3793,7 +3874,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M045SW1": {
     "id": "#M045SW1",
@@ -3824,7 +3908,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M047MU1": {
     "id": "#M047MU1",
@@ -3855,7 +3942,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M047SW1": {
     "id": "#M047SW1",
@@ -3886,7 +3976,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M049SW1": {
     "id": "#M049SW1",
@@ -3917,7 +4010,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M050MU1": {
     "id": "#M050MU1",
@@ -3948,7 +4044,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M052SW1": {
     "id": "#M052SW1",
@@ -3979,7 +4078,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M053MU1": {
     "id": "#M053MU1",
@@ -4010,7 +4112,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M054SW1": {
     "id": "#M054SW1",
@@ -4041,7 +4146,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M055MU1": {
     "id": "#M055MU1",
@@ -4072,7 +4180,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M056SW1": {
     "id": "#M056SW1",
@@ -4103,7 +4214,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M057MU1": {
     "id": "#M057MU1",
@@ -4134,7 +4248,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M058SW1": {
     "id": "#M058SW1",
@@ -4165,7 +4282,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M061MU1": {
     "id": "#M061MU1",
@@ -4196,7 +4316,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M062SW1": {
     "id": "#M062SW1",
@@ -4227,7 +4350,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M064MU1": {
     "id": "#M064MU1",
@@ -4258,7 +4384,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M064SW1": {
     "id": "#M064SW1",
@@ -4289,7 +4418,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M068SW1": {
     "id": "#M068SW1",
@@ -4320,7 +4452,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M069MU1": {
     "id": "#M069MU1",
@@ -4351,7 +4486,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M070SW1": {
     "id": "#M070SW1",
@@ -4382,7 +4520,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M071MU1": {
     "id": "#M071MU1",
@@ -4413,7 +4554,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M073MU1": {
     "id": "#M073MU1",
@@ -4444,7 +4588,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M073SW1": {
     "id": "#M073SW1",
@@ -4475,7 +4622,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M075TN1": {
     "id": "#M075TN1",
@@ -4506,7 +4656,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M076MU1": {
     "id": "#M076MU1",
@@ -4537,7 +4690,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M076TN1": {
     "id": "#M076TN1",
@@ -4568,7 +4724,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M077TN1": {
     "id": "#M077TN1",
@@ -4599,7 +4758,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M078TN1": {
     "id": "#M078TN1",
@@ -4630,7 +4792,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M079TN1": {
     "id": "#M079TN1",
@@ -4661,7 +4826,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M080TN1": {
     "id": "#M080TN1",
@@ -4692,7 +4860,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M081TN1": {
     "id": "#M081TN1",
@@ -4723,7 +4894,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M082MU1": {
     "id": "#M082MU1",
@@ -4754,7 +4928,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M082TN1": {
     "id": "#M082TN1",
@@ -4785,7 +4962,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M083TN1": {
     "id": "#M083TN1",
@@ -4816,7 +4996,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M084MU1": {
     "id": "#M084MU1",
@@ -4847,7 +5030,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M084SW1": {
     "id": "#M084SW1",
@@ -4878,7 +5064,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M084TN1": {
     "id": "#M084TN1",
@@ -4909,7 +5098,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M085TN1": {
     "id": "#M085TN1",
@@ -4940,7 +5132,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M086TN1": {
     "id": "#M086TN1",
@@ -4971,7 +5166,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M087TN1": {
     "id": "#M087TN1",
@@ -5002,7 +5200,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M088MU1": {
     "id": "#M088MU1",
@@ -5033,7 +5234,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M088SW1": {
     "id": "#M088SW1",
@@ -5064,7 +5268,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M088TN1": {
     "id": "#M088TN1",
@@ -5095,7 +5302,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M089TN1": {
     "id": "#M089TN1",
@@ -5126,7 +5336,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M090MU1": {
     "id": "#M090MU1",
@@ -5157,7 +5370,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M090SW1": {
     "id": "#M090SW1",
@@ -5188,7 +5404,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M090TN1": {
     "id": "#M090TN1",
@@ -5219,7 +5438,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M091TN1": {
     "id": "#M091TN1",
@@ -5250,7 +5472,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M092MU1": {
     "id": "#M092MU1",
@@ -5281,7 +5506,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M092SW1": {
     "id": "#M092SW1",
@@ -5312,7 +5540,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M092TN1": {
     "id": "#M092TN1",
@@ -5343,7 +5574,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M093TN1": {
     "id": "#M093TN1",
@@ -5374,7 +5608,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M094MU1": {
     "id": "#M094MU1",
@@ -5405,7 +5642,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M094TN1": {
     "id": "#M094TN1",
@@ -5436,7 +5676,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M095TN1": {
     "id": "#M095TN1",
@@ -5467,7 +5710,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M096MU1": {
     "id": "#M096MU1",
@@ -5498,7 +5744,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M096TN1": {
     "id": "#M096TN1",
@@ -5529,7 +5778,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M097TN1": {
     "id": "#M097TN1",
@@ -5560,7 +5812,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M098TN1": {
     "id": "#M098TN1",
@@ -5591,7 +5846,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M099SW1": {
     "id": "#M099SW1",
@@ -5622,7 +5880,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M099TN1": {
     "id": "#M099TN1",
@@ -5653,7 +5914,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M100TN1": {
     "id": "#M100TN1",
@@ -5684,7 +5948,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M101SW1": {
     "id": "#M101SW1",
@@ -5715,7 +5982,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M101TN1": {
     "id": "#M101TN1",
@@ -5746,7 +6016,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M102TN1": {
     "id": "#M102TN1",
@@ -5777,7 +6050,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M103TN1": {
     "id": "#M103TN1",
@@ -5808,7 +6084,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M104MU1": {
     "id": "#M104MU1",
@@ -5839,7 +6118,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M104TN1": {
     "id": "#M104TN1",
@@ -5870,7 +6152,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M105TN1": {
     "id": "#M105TN1",
@@ -5901,7 +6186,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M106MU1": {
     "id": "#M106MU1",
@@ -5932,7 +6220,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M106SW1": {
     "id": "#M106SW1",
@@ -5963,7 +6254,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M106TN1": {
     "id": "#M106TN1",
@@ -5994,7 +6288,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M107TN1": {
     "id": "#M107TN1",
@@ -6025,7 +6322,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M108TN1": {
     "id": "#M108TN1",
@@ -6056,7 +6356,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M109TN1": {
     "id": "#M109TN1",
@@ -6087,7 +6390,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M110MU1": {
     "id": "#M110MU1",
@@ -6118,7 +6424,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M111TN1": {
     "id": "#M111TN1",
@@ -6149,7 +6458,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M112MU1": {
     "id": "#M112MU1",
@@ -6180,7 +6492,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M112TN1": {
     "id": "#M112TN1",
@@ -6211,7 +6526,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M113SW1": {
     "id": "#M113SW1",
@@ -6242,7 +6560,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M113TN1": {
     "id": "#M113TN1",
@@ -6273,7 +6594,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M114TN1": {
     "id": "#M114TN1",
@@ -6304,7 +6628,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M115MU1": {
     "id": "#M115MU1",
@@ -6335,7 +6662,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M115SW1": {
     "id": "#M115SW1",
@@ -6366,7 +6696,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M115TN1": {
     "id": "#M115TN1",
@@ -6397,7 +6730,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M117SW1": {
     "id": "#M117SW1",
@@ -6428,7 +6764,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M118MU1": {
     "id": "#M118MU1",
@@ -6459,7 +6798,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M119SW1": {
     "id": "#M119SW1",
@@ -6490,7 +6832,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M120MU1": {
     "id": "#M120MU1",
@@ -6521,7 +6866,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M122MU1": {
     "id": "#M122MU1",
@@ -6552,7 +6900,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M125MU1": {
     "id": "#M125MU1",
@@ -6583,7 +6934,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M127SW1": {
     "id": "#M127SW1",
@@ -6614,7 +6968,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M129MU1": {
     "id": "#M129MU1",
@@ -6645,7 +7002,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M129SW1": {
     "id": "#M129SW1",
@@ -6676,7 +7036,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M132SW1": {
     "id": "#M132SW1",
@@ -6707,7 +7070,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M133MU1": {
     "id": "#M133MU1",
@@ -6738,7 +7104,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M134SW1": {
     "id": "#M134SW1",
@@ -6769,7 +7138,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M135MU1": {
     "id": "#M135MU1",
@@ -6800,7 +7172,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M136SW1": {
     "id": "#M136SW1",
@@ -6831,7 +7206,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M137MU1": {
     "id": "#M137MU1",
@@ -6862,7 +7240,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M140MU1": {
     "id": "#M140MU1",
@@ -6893,7 +7274,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M140SW1": {
     "id": "#M140SW1",
@@ -6924,7 +7308,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M142SW1": {
     "id": "#M142SW1",
@@ -6955,7 +7342,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M144MU1": {
     "id": "#M144MU1",
@@ -6986,7 +7376,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M144SW1": {
     "id": "#M144SW1",
@@ -7017,7 +7410,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M146MU1": {
     "id": "#M146MU1",
@@ -7048,7 +7444,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M146SW1": {
     "id": "#M146SW1",
@@ -7079,7 +7478,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M149MU1": {
     "id": "#M149MU1",
@@ -7110,7 +7512,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M152MU1": {
     "id": "#M152MU1",
@@ -7141,7 +7546,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M153SW1": {
     "id": "#M153SW1",
@@ -7172,7 +7580,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M155SW1": {
     "id": "#M155SW1",
@@ -7203,7 +7614,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M157SW1": {
     "id": "#M157SW1",
@@ -7234,7 +7648,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M159SW1": {
     "id": "#M159SW1",
@@ -7265,7 +7682,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#R001MU1": {
     "id": "#R001MU1",
@@ -11304,7 +11724,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#C008FF1": {
     "id": "#C008FF1",
@@ -11383,7 +11806,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#C013FF1": {
     "id": "#C013FF1",
@@ -11606,7 +12032,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#C033FF1": {
     "id": "#C033FF1",
@@ -11685,7 +12114,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#C041FF1": {
     "id": "#C041FF1",
@@ -11740,7 +12172,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#C044FF1": {
     "id": "#C044FF1",
@@ -11819,7 +12254,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#C047FF1": {
     "id": "#C047FF1",
@@ -11898,7 +12336,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#C053FF1": {
     "id": "#C053FF1",
@@ -12361,7 +12802,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#C115FF1": {
     "id": "#C115FF1",
@@ -12464,7 +12908,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#C124FF1": {
     "id": "#C124FF1",
@@ -12567,7 +13014,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#C138FF1": {
     "id": "#C138FF1",
@@ -12862,7 +13312,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#LR034FF1": {
     "id": "#LR034FF1",
@@ -12917,7 +13370,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#LR078FF1": {
     "id": "#LR078FF1",
@@ -12972,7 +13428,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#LR091FF1": {
     "id": "#LR091FF1",
@@ -13051,7 +13510,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#LR169FF1": {
     "id": "#LR169FF1",
@@ -13106,7 +13568,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#R004FF1": {
     "id": "#R004FF1",
@@ -13161,7 +13626,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#R006FF1": {
     "id": "#R006FF1",
@@ -13216,7 +13684,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#R010FF1": {
     "id": "#R010FF1",
@@ -13319,7 +13790,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#R068FF1": {
     "id": "#R068FF1",
@@ -13374,7 +13848,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#R072FF1": {
     "id": "#R072FF1",
@@ -13429,7 +13906,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#R080FF1": {
     "id": "#R080FF1",
@@ -13484,7 +13964,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#R092FF1": {
     "id": "#R092FF1",
@@ -13539,7 +14022,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#R096FF1": {
     "id": "#R096FF1",
@@ -13594,7 +14080,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#R106FF1": {
     "id": "#R106FF1",
@@ -13649,7 +14138,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#R125FF1": {
     "id": "#R125FF1",
@@ -13704,7 +14196,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#R129FF1": {
     "id": "#R129FF1",
@@ -13759,7 +14254,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#R133FF1": {
     "id": "#R133FF1",
@@ -13814,7 +14312,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#R135FF1": {
     "id": "#R135FF1",
@@ -13869,7 +14370,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#R152FF1": {
     "id": "#R152FF1",
@@ -13924,7 +14428,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#R155FF1": {
     "id": "#R155FF1",
@@ -14003,7 +14510,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#R160FF1": {
     "id": "#R160FF1",
@@ -14202,7 +14712,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#UC025FF1": {
     "id": "#UC025FF1",
@@ -14329,7 +14842,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#UC038FF1": {
     "id": "#UC038FF1",
@@ -14432,7 +14948,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#UC050FF1": {
     "id": "#UC050FF1",
@@ -14631,7 +15150,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#UC067FF1": {
     "id": "#UC067FF1",
@@ -14710,7 +15232,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#UC094FF1": {
     "id": "#UC094FF1",
@@ -14789,7 +15314,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#UC118FF1": {
     "id": "#UC118FF1",
@@ -14868,7 +15396,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#UC137FF1": {
     "id": "#UC137FF1",
@@ -14947,7 +15478,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#UC146FF1": {
     "id": "#UC146FF1",
@@ -15002,7 +15536,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#UC150FF1": {
     "id": "#UC150FF1",
@@ -15057,7 +15594,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#UC153FF1": {
     "id": "#UC153FF1",
@@ -15136,7 +15676,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#UC163FF1": {
     "id": "#UC163FF1",
@@ -15191,7 +15734,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#UC172FF1": {
     "id": "#UC172FF1",
@@ -15246,7 +15792,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#UR039FF1": {
     "id": "#UR039FF1",
@@ -15325,7 +15874,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#UR084FF1": {
     "id": "#UR084FF1",
@@ -15380,7 +15932,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#UR089FF1": {
     "id": "#UR089FF1",
@@ -15435,7 +15990,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#UR098FF1": {
     "id": "#UR098FF1",
@@ -15490,7 +16048,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#UR101FF1": {
     "id": "#UR101FF1",
@@ -15569,7 +16130,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#UR116FF1": {
     "id": "#UR116FF1",
@@ -15624,7 +16188,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#UR128FF1": {
     "id": "#UR128FF1",
@@ -15703,7 +16270,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#UR149FF1": {
     "id": "#UR149FF1",
@@ -15750,7 +16320,10 @@
     },
     "name": "X Token",
     "type": "Token",
-    "cost": 0
+    "cost": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#UC029VS1": {
     "id": "#UC029VS1",
@@ -15805,7 +16378,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#UC030VS1": {
     "id": "#UC030VS1",
@@ -15860,7 +16436,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#UC031VS1": {
     "id": "#UC031VS1",
@@ -15915,7 +16494,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#UC032VS1": {
     "id": "#UC032VS1",
@@ -15970,7 +16552,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#UC033VS1": {
     "id": "#UC033VS1",
@@ -16025,7 +16610,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#UC034VS1": {
     "id": "#UC034VS1",
@@ -16080,7 +16668,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#UC035VS1": {
     "id": "#UC035VS1",
@@ -16135,7 +16726,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#R043VS1": {
     "id": "#R043VS1",
@@ -16190,7 +16784,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#C001VS1": {
     "id": "#C001VS1",
@@ -16269,7 +16866,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#UR058VS1": {
     "id": "#UR058VS1",
@@ -16324,7 +16924,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#UR059VS1": {
     "id": "#UR059VS1",
@@ -16379,7 +16982,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#UR060VS1": {
     "id": "#UR060VS1",
@@ -16434,7 +17040,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#UR061VS1": {
     "id": "#UR061VS1",
@@ -16489,7 +17098,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#UR062VS1": {
     "id": "#UR062VS1",
@@ -16544,7 +17156,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#UR063VS1": {
     "id": "#UR063VS1",
@@ -16599,7 +17214,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#UR064VS1": {
     "id": "#UR064VS1",
@@ -16654,7 +17272,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#R044VS1": {
     "id": "#R044VS1",
@@ -16805,7 +17426,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#UC036VS1": {
     "id": "#UC036VS1",
@@ -16860,7 +17484,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#C004VS1": {
     "id": "#C004VS1",
@@ -16915,7 +17542,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#C005VS1": {
     "id": "#C005VS1",
@@ -16970,7 +17600,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#C006VS1": {
     "id": "#C006VS1",
@@ -17025,7 +17658,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#C007VS1": {
     "id": "#C007VS1",
@@ -17080,7 +17716,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#C008VS1": {
     "id": "#C008VS1",
@@ -17135,7 +17774,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#C009VS1": {
     "id": "#C009VS1",
@@ -17190,7 +17832,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#C010VS1": {
     "id": "#C010VS1",
@@ -17245,7 +17890,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#C011VS1": {
     "id": "#C011VS1",
@@ -17300,7 +17948,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#C012VS1": {
     "id": "#C012VS1",
@@ -17355,7 +18006,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#C013VS1": {
     "id": "#C013VS1",
@@ -17410,7 +18064,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#C014VS1": {
     "id": "#C014VS1",
@@ -17465,7 +18122,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#C015VS1": {
     "id": "#C015VS1",
@@ -17520,7 +18180,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#C016VS1": {
     "id": "#C016VS1",
@@ -17575,7 +18238,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#C017VS1": {
     "id": "#C017VS1",
@@ -17630,7 +18296,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#C018VS1": {
     "id": "#C018VS1",
@@ -17685,7 +18354,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#C019VS1": {
     "id": "#C019VS1",
@@ -17740,7 +18412,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#C020VS1": {
     "id": "#C020VS1",
@@ -17795,7 +18470,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#R047VS1": {
     "id": "#R047VS1",
@@ -17850,7 +18528,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#C021VS1": {
     "id": "#C021VS1",
@@ -17929,7 +18610,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#UC037VS1": {
     "id": "#UC037VS1",
@@ -18008,7 +18692,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#R050VS1": {
     "id": "#R050VS1",
@@ -18063,7 +18750,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#C022VS1": {
     "id": "#C022VS1",
@@ -18142,7 +18832,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#C023VS1": {
     "id": "#C023VS1",
@@ -18269,7 +18962,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#R052VS1": {
     "id": "#R052VS1",
@@ -18492,7 +19188,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#UC040VS1": {
     "id": "#UC040VS1",
@@ -18547,7 +19246,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#M109VS1": {
     "id": "#M109VS1",
@@ -18578,7 +19280,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#UC041VS1": {
     "id": "#UC041VS1",
@@ -18681,7 +19386,10 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   },
   "#R056VS1": {
     "id": "#R056VS1",
@@ -18736,6 +19444,9 @@
     "DEF": 0,
     "Unity ATK": 0,
     "Unity DEF": 0,
-    "Tier": 0
+    "Tier": 0,
+    "tokens": [
+      "XTOKEN"
+    ]
   }
 }
