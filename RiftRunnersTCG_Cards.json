@@ -15737,14 +15737,14 @@
         "name": "X Token",
         "type": "Token",
         "cost": 0,
-        "image": "https://balbi.github.io/TCGA-Rift-Runners/x_space.webp",
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/x_space.webp",
         "isHorizontal": false
       },
       "back": {
         "name": "X Token",
         "type": "Token",
         "cost": 0,
-        "image": "https://balbi.github.io/TCGA-Rift-Runners/x_space.webp",
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/x_space.webp",
         "isHorizontal": false
       }
     },
