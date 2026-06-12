@@ -64,12 +64,6 @@
       "beforeGameStart": {
         "initialBoardSetup": [
           {
-            "drawFromTop": "Deck",
-            "count": 5,
-            "destination": "Hand",
-            "waitForPlayerTurn": false
-          },
-          {
             "createCardId": "XTOKEN",
             "count": 1,
             "destination": "C1R1"
@@ -130,6 +124,14 @@
             "destination": "C4R3"
           }
         ]
+      },
+      "mulligan": {
+        "triggeredByButton": true,
+        "startingHandSize": 5,
+        "mulliganCount": {
+          "min": 0,
+          "max": 0
+        }
       },
       "newTurn": {
         "drawOnStart": true,
