@@ -71,6 +71,7 @@
             "unselectedDestination": "ExileHidden"
           }
         ],
+        "chooseAnotherStartingPlayer": true,
         "initialBoardSetup": [
           {
             "createCardId": "XTOKEN",
