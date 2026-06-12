@@ -123,13 +123,13 @@
               "createCardId": "XTOKEN",
               "count": 1,
               "destination": "C4R3"
+            },
+            {
+              "drawFromTop": "Deck",
+              "count": 5,
+              "destination": "Hand"
             }
-          ],
-          "1": [{
-            "drawFromTop": "Deck",
-            "count": 5,
-            "destination": "Hand"
-          }]
+          ]
         }
       },
       "mulliganDISABLED": {
@@ -141,7 +141,7 @@
         }
       },
       "newTurn": {
-        "drawOnStart": true,
+        "drawOnStart": false,
         "sharedTurn": false,
         "firstPlayerTokenName": "",
         "drawPerTurn": 1
