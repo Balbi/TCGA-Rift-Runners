@@ -62,75 +62,73 @@
   "gameplay": {
     "Standard": {
       "beforeGameStart": {
-        "initialBoardSetup": {
-          "0": [
-            {
-              "createCardId": "XTOKEN",
-              "count": 1,
-              "destination": "C1R1"
-            },
-            {
-              "createCardId": "XTOKEN",
-              "count": 1,
-              "destination": "C1R2"
-            },
-            {
-              "createCardId": "XTOKEN",
-              "count": 1,
-              "destination": "C1R3"
-            },
-            {
-              "createCardId": "XTOKEN",
-              "count": 1,
-              "destination": "C2R1"
-            },
-            {
-              "createCardId": "XTOKEN",
-              "count": 1,
-              "destination": "C2R2"
-            },
-            {
-              "createCardId": "XTOKEN",
-              "count": 1,
-              "destination": "C2R3"
-            },
-            {
-              "createCardId": "XTOKEN",
-              "count": 1,
-              "destination": "C3R1"
-            },
-            {
-              "createCardId": "XTOKEN",
-              "count": 1,
-              "destination": "C3R2"
-            },
-            {
-              "createCardId": "XTOKEN",
-              "count": 1,
-              "destination": "C3R3"
-            },
-            {
-              "createCardId": "XTOKEN",
-              "count": 1,
-              "destination": "C4R1"
-            },
-            {
-              "createCardId": "XTOKEN",
-              "count": 1,
-              "destination": "C4R2"
-            },
-            {
-              "createCardId": "XTOKEN",
-              "count": 1,
-              "destination": "C4R3"
-            },
-            {
-              "drawFromTop": "Deck",
-              "count": 5,
-              "destination": "Hand"
-            }
-          ]
-        }
+        "initialBoardSetup": [
+          {
+            "createCardId": "XTOKEN",
+            "count": 1,
+            "destination": "C1R1"
+          },
+          {
+            "createCardId": "XTOKEN",
+            "count": 1,
+            "destination": "C1R2"
+          },
+          {
+            "createCardId": "XTOKEN",
+            "count": 1,
+            "destination": "C1R3"
+          },
+          {
+            "createCardId": "XTOKEN",
+            "count": 1,
+            "destination": "C2R1"
+          },
+          {
+            "createCardId": "XTOKEN",
+            "count": 1,
+            "destination": "C2R2"
+          },
+          {
+            "createCardId": "XTOKEN",
+            "count": 1,
+            "destination": "C2R3"
+          },
+          {
+            "createCardId": "XTOKEN",
+            "count": 1,
+            "destination": "C3R1"
+          },
+          {
+            "createCardId": "XTOKEN",
+            "count": 1,
+            "destination": "C3R2"
+          },
+          {
+            "createCardId": "XTOKEN",
+            "count": 1,
+            "destination": "C3R3"
+          },
+          {
+            "createCardId": "XTOKEN",
+            "count": 1,
+            "destination": "C4R1"
+          },
+          {
+            "createCardId": "XTOKEN",
+            "count": 1,
+            "destination": "C4R2"
+          },
+          {
+            "createCardId": "XTOKEN",
+            "count": 1,
+            "destination": "C4R3"
+          },
+          {
+            "drawFromTop": "Deck",
+            "count": 5,
+            "destination": "Hand"
+          }
+        ]
       },
       "mulliganDISABLED": {
         "triggeredByButton": true,
