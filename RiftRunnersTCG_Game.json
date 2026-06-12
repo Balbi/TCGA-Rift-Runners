@@ -11,7 +11,7 @@
   "cardRotation": "90",
   "cards": {
     "dataUrl": "https://balbi.github.io/TCGA-Rift-Runners/RiftRunnersTCG_Cards.json",
-    "cardBack": "https://balbi.github.io/TCGA-Rift-Runners/backs/default.jpg"
+    "cardBack": "https://balbi.github.io/TCGA-Rift-Runners/backs/default.webp"
   },
   "deckBuilding": {
     "mainFilters": [

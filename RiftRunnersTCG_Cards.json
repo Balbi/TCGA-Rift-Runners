@@ -2937,6 +2937,13 @@
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M002MU1.webp",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Abyssal Squchan",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M002MU1.webp",
+        "isHorizontal": false
       }
     },
     "name": "Abyssal Squchan (Monarch)",
@@ -2960,6 +2967,13 @@
         "type": "Monarch",
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M006MU1.webp",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Armored Knight Takako",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M006MU1.webp",
         "isHorizontal": false
       }
     },
@@ -2985,6 +2999,13 @@
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M006SW1.webp",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Hana The Ravenous",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M006SW1.webp",
+        "isHorizontal": false
       }
     },
     "name": "Hana The Ravenous (Monarch)",
@@ -3008,6 +3029,13 @@
         "type": "Monarch",
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M008SW1.webp",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Hana - Harbinger of Pestilence",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M008SW1.webp",
         "isHorizontal": false
       }
     },
@@ -3033,6 +3061,13 @@
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M009MU1.webp",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Battle Maid Takako",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M009MU1.webp",
+        "isHorizontal": false
       }
     },
     "name": "Battle Maid Takako (Monarch)",
@@ -3056,6 +3091,13 @@
         "type": "Monarch",
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M011SW1.webp",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Kliffoth - Local Legend",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M011SW1.webp",
         "isHorizontal": false
       }
     },
@@ -3081,6 +3123,13 @@
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M014MU1.webp",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Camizole The Baneful",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M014MU1.webp",
+        "isHorizontal": false
       }
     },
     "name": "Camizole The Baneful (Monarch)",
@@ -3104,6 +3153,13 @@
         "type": "Monarch",
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M014SW1.webp",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Smug Bug Ume",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M014SW1.webp",
         "isHorizontal": false
       }
     },
@@ -3129,6 +3185,13 @@
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M017MU1.webp",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Chibi: Gremlin of Destiny",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M017MU1.webp",
+        "isHorizontal": false
       }
     },
     "name": "Chibi: Gremlin of Destiny (Monarch)",
@@ -3152,6 +3215,13 @@
         "type": "Monarch",
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M018SW1.webp",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Aki the Shiba Maid",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M018SW1.webp",
         "isHorizontal": false
       }
     },
@@ -3177,6 +3247,13 @@
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M021SW1.webp",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Dazzling Margo",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M021SW1.webp",
+        "isHorizontal": false
       }
     },
     "name": "Dazzling Margo (Monarch)",
@@ -3200,6 +3277,13 @@
         "type": "Monarch",
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M022MU1.webp",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Crumpet Cosmic Fusion",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M022MU1.webp",
         "isHorizontal": false
       }
     },
@@ -3225,6 +3309,13 @@
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M024MU1.webp",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Crumpet: Chimera Overlord",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M024MU1.webp",
+        "isHorizontal": false
       }
     },
     "name": "Crumpet: Chimera Overlord (Monarch)",
@@ -3248,6 +3339,13 @@
         "type": "Monarch",
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M024SW1.webp",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Horatius Silverstone",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M024SW1.webp",
         "isHorizontal": false
       }
     },
@@ -3273,6 +3371,13 @@
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M026MU1.webp",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Cyberdragoon Sevy",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M026MU1.webp",
+        "isHorizontal": false
       }
     },
     "name": "Cyberdragoon Sevy (Monarch)",
@@ -3296,6 +3401,13 @@
         "type": "Monarch",
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M027SW1.webp",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Monster Slayer Renn",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M027SW1.webp",
         "isHorizontal": false
       }
     },
@@ -3321,6 +3433,13 @@
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M028MU1.webp",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Cyberpunk Sayu",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M028MU1.webp",
+        "isHorizontal": false
       }
     },
     "name": "Cyberpunk Sayu (Monarch)",
@@ -3344,6 +3463,13 @@
         "type": "Monarch",
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M029SW1.webp",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Pasta - Hungry Idol",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M029SW1.webp",
         "isHorizontal": false
       }
     },
@@ -3369,6 +3495,13 @@
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M031MU1.webp",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Dream Weaver Amiya",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M031MU1.webp",
+        "isHorizontal": false
       }
     },
     "name": "Dream Weaver Amiya (Monarch)",
@@ -3392,6 +3525,13 @@
         "type": "Monarch",
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M032SW1.webp",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Rock Diva Reina",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M032SW1.webp",
         "isHorizontal": false
       }
     },
@@ -3417,6 +3557,13 @@
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M033MU1.webp",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Dungeon Diver Yuno",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M033MU1.webp",
+        "isHorizontal": false
       }
     },
     "name": "Dungeon Diver Yuno (Monarch)",
@@ -3440,6 +3587,13 @@
         "type": "Monarch",
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M034SW1.webp",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Blessing Giver Mim",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M034SW1.webp",
         "isHorizontal": false
       }
     },
@@ -3465,6 +3619,13 @@
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M038MU1.webp",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Freya The Freelancer",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M038MU1.webp",
+        "isHorizontal": false
       }
     },
     "name": "Freya The Freelancer (Monarch)",
@@ -3488,6 +3649,13 @@
         "type": "Monarch",
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M039SW1.webp",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Forest Princess Daemo",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M039SW1.webp",
         "isHorizontal": false
       }
     },
@@ -3513,6 +3681,13 @@
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M040MU1.webp",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Garden Nymph Hespera",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M040MU1.webp",
+        "isHorizontal": false
       }
     },
     "name": "Garden Nymph Hespera (Monarch)",
@@ -3536,6 +3711,13 @@
         "type": "Monarch",
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M041SW1.webp",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Hikaru Unleashed",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M041SW1.webp",
         "isHorizontal": false
       }
     },
@@ -3561,6 +3743,13 @@
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M043SW1.webp",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Hu - Fateful Tiger",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M043SW1.webp",
+        "isHorizontal": false
       }
     },
     "name": "Hu - Fateful Tiger (Monarch)",
@@ -3584,6 +3773,13 @@
         "type": "Monarch",
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M044MU1.webp",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Graceful Fencer Karin",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M044MU1.webp",
         "isHorizontal": false
       }
     },
@@ -3609,6 +3805,13 @@
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M045SW1.webp",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Kumanui The Chuuni",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M045SW1.webp",
+        "isHorizontal": false
       }
     },
     "name": "Kumanui The Chuuni (Monarch)",
@@ -3632,6 +3835,13 @@
         "type": "Monarch",
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M047MU1.webp",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Hannah: Menace of the Sea",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M047MU1.webp",
         "isHorizontal": false
       }
     },
@@ -3657,6 +3867,13 @@
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M047SW1.webp",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Lapin the Wanderer",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M047SW1.webp",
+        "isHorizontal": false
       }
     },
     "name": "Lapin the Wanderer (Monarch)",
@@ -3680,6 +3897,13 @@
         "type": "Monarch",
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M049SW1.webp",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Mimosa: Dangerous Diva",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M049SW1.webp",
         "isHorizontal": false
       }
     },
@@ -3705,6 +3929,13 @@
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M050MU1.webp",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Imprisoned Camizole",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M050MU1.webp",
+        "isHorizontal": false
       }
     },
     "name": "Imprisoned Camizole (Monarch)",
@@ -3728,6 +3959,13 @@
         "type": "Monarch",
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M052SW1.webp",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Psychic Soldier Raein",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M052SW1.webp",
         "isHorizontal": false
       }
     },
@@ -3753,6 +3991,13 @@
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M053MU1.webp",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Khiren of the Grove",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M053MU1.webp",
+        "isHorizontal": false
       }
     },
     "name": "Khiren of the Grove (Monarch)",
@@ -3776,6 +4021,13 @@
         "type": "Monarch",
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M054SW1.webp",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Purity the Devoted",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M054SW1.webp",
         "isHorizontal": false
       }
     },
@@ -3801,6 +4053,13 @@
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M055MU1.webp",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Kitten Frog Kiska",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M055MU1.webp",
+        "isHorizontal": false
       }
     },
     "name": "Kitten Frog Kiska (Monarch)",
@@ -3824,6 +4083,13 @@
         "type": "Monarch",
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M056SW1.webp",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Analyst Eclipse",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M056SW1.webp",
         "isHorizontal": false
       }
     },
@@ -3849,6 +4115,13 @@
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M057MU1.webp",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Kyou: Yakuza Rose",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M057MU1.webp",
+        "isHorizontal": false
       }
     },
     "name": "Kyou: Yakuza Rose (Monarch)",
@@ -3872,6 +4145,13 @@
         "type": "Monarch",
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M058SW1.webp",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Baka The Original",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M058SW1.webp",
         "isHorizontal": false
       }
     },
@@ -3897,6 +4177,13 @@
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M061MU1.webp",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Leizu the Fallen",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M061MU1.webp",
+        "isHorizontal": false
       }
     },
     "name": "Leizu the Fallen (Monarch)",
@@ -3920,6 +4207,13 @@
         "type": "Monarch",
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M062SW1.webp",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Cowgirl Pasta",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M062SW1.webp",
         "isHorizontal": false
       }
     },
@@ -3945,6 +4239,13 @@
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M064MU1.webp",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Magical Girl Chibidoki",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M064MU1.webp",
+        "isHorizontal": false
       }
     },
     "name": "Magical Girl Chibidoki (Monarch)",
@@ -3968,6 +4269,13 @@
         "type": "Monarch",
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M064SW1.webp",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Gremka Zero",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M064SW1.webp",
         "isHorizontal": false
       }
     },
@@ -3993,6 +4301,13 @@
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M068SW1.webp",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Outlaw Ophelia",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M068SW1.webp",
+        "isHorizontal": false
       }
     },
     "name": "Outlaw Ophelia (Monarch)",
@@ -4016,6 +4331,13 @@
         "type": "Monarch",
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M069MU1.webp",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Mech Commander Mari",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M069MU1.webp",
         "isHorizontal": false
       }
     },
@@ -4041,6 +4363,13 @@
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M070SW1.webp",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Sharpshooter Margo",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M070SW1.webp",
+        "isHorizontal": false
       }
     },
     "name": "Sharpshooter Margo (Monarch)",
@@ -4064,6 +4393,13 @@
         "type": "Monarch",
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M071MU1.webp",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Milky: Gentle Matriarch",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M071MU1.webp",
         "isHorizontal": false
       }
     },
@@ -4089,6 +4425,13 @@
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M073MU1.webp",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Miya the Warmage",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M073MU1.webp",
+        "isHorizontal": false
       }
     },
     "name": "Miya the Warmage (Monarch)",
@@ -4112,6 +4455,13 @@
         "type": "Monarch",
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M073SW1.webp",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Street Artist Paichi",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M073SW1.webp",
         "isHorizontal": false
       }
     },
@@ -4137,6 +4487,13 @@
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M075TN1.webp",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Aki the Shibamancer",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M075TN1.webp",
+        "isHorizontal": false
       }
     },
     "name": "Aki the Shibamancer (Monarch)",
@@ -4160,6 +4517,13 @@
         "type": "Monarch",
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M076MU1.webp",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Muzunomi the Voracious",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M076MU1.webp",
         "isHorizontal": false
       }
     },
@@ -4185,6 +4549,13 @@
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M076TN1.webp",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Arthur: Mischief Seeker",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M076TN1.webp",
+        "isHorizontal": false
       }
     },
     "name": "Arthur: Mischief Seeker (Monarch)",
@@ -4208,6 +4579,13 @@
         "type": "Monarch",
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M077TN1.webp",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "August Anomaly",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M077TN1.webp",
         "isHorizontal": false
       }
     },
@@ -4233,6 +4611,13 @@
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M078TN1.webp",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Bounty Hunter Sui",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M078TN1.webp",
+        "isHorizontal": false
       }
     },
     "name": "Bounty Hunter Sui (Monarch)",
@@ -4256,6 +4641,13 @@
         "type": "Monarch",
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M079TN1.webp",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Celaroo the Tamer",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M079TN1.webp",
         "isHorizontal": false
       }
     },
@@ -4281,6 +4673,13 @@
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M080TN1.webp",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Chaos Imp Arthur",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M080TN1.webp",
+        "isHorizontal": false
       }
     },
     "name": "Chaos Imp Arthur (Monarch)",
@@ -4304,6 +4703,13 @@
         "type": "Monarch",
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M081TN1.webp",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Crystalyn Fusushi",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M081TN1.webp",
         "isHorizontal": false
       }
     },
@@ -4329,6 +4735,13 @@
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M082MU1.webp",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Nyano the Scholar",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M082MU1.webp",
+        "isHorizontal": false
       }
     },
     "name": "Nyano the Scholar (Monarch)",
@@ -4352,6 +4765,13 @@
         "type": "Monarch",
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M082TN1.webp",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Dairy Witch Momoka",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M082TN1.webp",
         "isHorizontal": false
       }
     },
@@ -4377,6 +4797,13 @@
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M083TN1.webp",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Dandyfloss the Cursed",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M083TN1.webp",
+        "isHorizontal": false
       }
     },
     "name": "Dandyfloss the Cursed (Monarch)",
@@ -4400,6 +4827,13 @@
         "type": "Monarch",
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M084MU1.webp",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Office Mommy Kyou",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M084MU1.webp",
         "isHorizontal": false
       }
     },
@@ -4425,6 +4859,13 @@
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M084SW1.webp",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Dragonspit the Firebrand",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M084SW1.webp",
+        "isHorizontal": false
       }
     },
     "name": "Dragonspit the Firebrand (Monarch)",
@@ -4448,6 +4889,13 @@
         "type": "Monarch",
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M084TN1.webp",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Eros the Banshee",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M084TN1.webp",
         "isHorizontal": false
       }
     },
@@ -4473,6 +4921,13 @@
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M085TN1.webp",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Fear Weaver Miri",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M085TN1.webp",
+        "isHorizontal": false
       }
     },
     "name": "Fear Weaver Miri (Monarch)",
@@ -4496,6 +4951,13 @@
         "type": "Monarch",
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M086TN1.webp",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Frenzied Gloom",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M086TN1.webp",
         "isHorizontal": false
       }
     },
@@ -4521,6 +4983,13 @@
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M087TN1.webp",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Ghost Elf Skella",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M087TN1.webp",
+        "isHorizontal": false
       }
     },
     "name": "Ghost Elf Skella (Monarch)",
@@ -4544,6 +5013,13 @@
         "type": "Monarch",
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M088MU1.webp",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Outlaw Angel Sayu",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M088MU1.webp",
         "isHorizontal": false
       }
     },
@@ -4569,6 +5045,13 @@
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M088SW1.webp",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Cultivator Lulu",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M088SW1.webp",
+        "isHorizontal": false
       }
     },
     "name": "Cultivator Lulu (Monarch)",
@@ -4592,6 +5075,13 @@
         "type": "Monarch",
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M088TN1.webp",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Golden Imp Koko",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M088TN1.webp",
         "isHorizontal": false
       }
     },
@@ -4617,6 +5107,13 @@
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M089TN1.webp",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Hylia of Elisyth",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M089TN1.webp",
+        "isHorizontal": false
       }
     },
     "name": "Hylia of Elisyth (Monarch)",
@@ -4640,6 +5137,13 @@
         "type": "Monarch",
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M090MU1.webp",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Overseer Mirabelle",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M090MU1.webp",
         "isHorizontal": false
       }
     },
@@ -4665,6 +5169,13 @@
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M090SW1.webp",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Cyber Idol Yui",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M090SW1.webp",
+        "isHorizontal": false
       }
     },
     "name": "Cyber Idol Yui (Monarch)",
@@ -4688,6 +5199,13 @@
         "type": "Monarch",
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M090TN1.webp",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Imakuni the Luckubus",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M090TN1.webp",
         "isHorizontal": false
       }
     },
@@ -4713,6 +5231,13 @@
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M091TN1.webp",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Ink Eldritch Merpperoni",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M091TN1.webp",
+        "isHorizontal": false
       }
     },
     "name": "Ink Eldritch Merpperoni (Monarch)",
@@ -4736,6 +5261,13 @@
         "type": "Monarch",
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M092MU1.webp",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Panda Mage Khiren",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M092MU1.webp",
         "isHorizontal": false
       }
     },
@@ -4761,6 +5293,13 @@
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M092SW1.webp",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Electric Kyubalt",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M092SW1.webp",
+        "isHorizontal": false
       }
     },
     "name": "Electric Kyubalt (Monarch)",
@@ -4784,6 +5323,13 @@
         "type": "Monarch",
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M092TN1.webp",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Insect Demon Togichu",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M092TN1.webp",
         "isHorizontal": false
       }
     },
@@ -4809,6 +5355,13 @@
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M093TN1.webp",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Kin the Leviashark",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M093TN1.webp",
+        "isHorizontal": false
       }
     },
     "name": "Kin the Leviashark (Monarch)",
@@ -4833,6 +5386,13 @@
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M094MU1.webp",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Pillager Kyoharu",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M094MU1.webp",
+        "isHorizontal": false
       }
     },
     "name": "Pillager Kyoharu (Monarch)",
@@ -4852,14 +5412,21 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Liari",
+        "name": "Liari: Dealer of Fate",
         "type": "Monarch",
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M094TN1.webp",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Liari: Dealer of Fate",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M094TN1.webp",
+        "isHorizontal": false
       }
     },
-    "name": "Liari (Monarch)",
+    "name": "Liari: Dealer of Fate (Monarch)",
     "type": "Monarch",
     "cost": 0,
     "Set": "Trickster Nights",
@@ -4880,6 +5447,13 @@
         "type": "Monarch",
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M095TN1.webp",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Lightbringer Aura",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M095TN1.webp",
         "isHorizontal": false
       }
     },
@@ -4905,6 +5479,13 @@
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M096MU1.webp",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Pillow the Nurse",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M096MU1.webp",
+        "isHorizontal": false
       }
     },
     "name": "Pillow the Nurse (Monarch)",
@@ -4928,6 +5509,13 @@
         "type": "Monarch",
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M096TN1.webp",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Lotus of Inzura",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M096TN1.webp",
         "isHorizontal": false
       }
     },
@@ -4953,6 +5541,13 @@
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M097TN1.webp",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Luck Dragon Akari",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M097TN1.webp",
+        "isHorizontal": false
       }
     },
     "name": "Luck Dragon Akari (Monarch)",
@@ -4976,6 +5571,13 @@
         "type": "Monarch",
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M098TN1.webp",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Margay Boss Kirana",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M098TN1.webp",
         "isHorizontal": false
       }
     },
@@ -5001,6 +5603,13 @@
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M099SW1.webp",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Storm Hero Vari",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M099SW1.webp",
+        "isHorizontal": false
       }
     },
     "name": "Storm Hero Vari (Monarch)",
@@ -5024,6 +5633,13 @@
         "type": "Monarch",
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M099TN1.webp",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Mechromancer Veronica",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M099TN1.webp",
         "isHorizontal": false
       }
     },
@@ -5049,6 +5665,13 @@
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M100TN1.webp",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Necromancer Rhea",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M100TN1.webp",
+        "isHorizontal": false
       }
     },
     "name": "Necromancer Rhea (Monarch)",
@@ -5072,6 +5695,13 @@
         "type": "Monarch",
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M101SW1.webp",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Necromancer Rhea",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M101SW1.webp",
         "isHorizontal": false
       }
     },
@@ -5097,6 +5727,13 @@
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M101TN1.webp",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Neverland Inanna",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M101TN1.webp",
+        "isHorizontal": false
       }
     },
     "name": "Neverland Inanna (Monarch)",
@@ -5120,6 +5757,13 @@
         "type": "Monarch",
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M102TN1.webp",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Owl Goddess Silvi",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M102TN1.webp",
         "isHorizontal": false
       }
     },
@@ -5145,6 +5789,13 @@
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M103TN1.webp",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Phaedra the Undying",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M103TN1.webp",
+        "isHorizontal": false
       }
     },
     "name": "Phaedra the Undying (Monarch)",
@@ -5168,6 +5819,13 @@
         "type": "Monarch",
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M104MU1.webp",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Riona the Mariner",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M104MU1.webp",
         "isHorizontal": false
       }
     },
@@ -5193,6 +5851,13 @@
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M104TN1.webp",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Queenie the Tamer",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M104TN1.webp",
+        "isHorizontal": false
       }
     },
     "name": "Queenie the Tamer (Monarch)",
@@ -5216,6 +5881,13 @@
         "type": "Monarch",
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M105TN1.webp",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Rabbit Mayor Kiki",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M105TN1.webp",
         "isHorizontal": false
       }
     },
@@ -5241,6 +5913,13 @@
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M106MU1.webp",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Royal Goldfish Mari",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M106MU1.webp",
+        "isHorizontal": false
       }
     },
     "name": "Royal Goldfish Mari (Monarch)",
@@ -5264,6 +5943,13 @@
         "type": "Monarch",
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M106SW1.webp",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Innekeeper Hiyori",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M106SW1.webp",
         "isHorizontal": false
       }
     },
@@ -5289,6 +5975,13 @@
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M106TN1.webp",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Ratsukare The Producer",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M106TN1.webp",
+        "isHorizontal": false
       }
     },
     "name": "Ratsukare The Producer (Monarch)",
@@ -5312,6 +6005,13 @@
         "type": "Monarch",
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M107TN1.webp",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Retromancer Myra",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M107TN1.webp",
         "isHorizontal": false
       }
     },
@@ -5337,6 +6037,13 @@
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M108TN1.webp",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Riri of the Anora",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M108TN1.webp",
+        "isHorizontal": false
       }
     },
     "name": "Riri of the Anora (Monarch)",
@@ -5360,6 +6067,13 @@
         "type": "Monarch",
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M109TN1.webp",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Shadow Dragon Kyllier",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M109TN1.webp",
         "isHorizontal": false
       }
     },
@@ -5385,6 +6099,13 @@
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M110MU1.webp",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Sea Witch Riona",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M110MU1.webp",
+        "isHorizontal": false
       }
     },
     "name": "Sea Witch Riona (Monarch)",
@@ -5408,6 +6129,13 @@
         "type": "Monarch",
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M111TN1.webp",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Snowwiii the DJ",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M111TN1.webp",
         "isHorizontal": false
       }
     },
@@ -5433,6 +6161,13 @@
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M112MU1.webp",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Seal Superstar Snoozy",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M112MU1.webp",
+        "isHorizontal": false
       }
     },
     "name": "Seal Superstar Snoozy (Monarch)",
@@ -5456,6 +6191,13 @@
         "type": "Monarch",
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M112TN1.webp",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Star Overlord Rima",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M112TN1.webp",
         "isHorizontal": false
       }
     },
@@ -5481,6 +6223,13 @@
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M113SW1.webp",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Angel Shark Miya",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M113SW1.webp",
+        "isHorizontal": false
       }
     },
     "name": "Angel Shark Miya (Monarch)",
@@ -5504,6 +6253,13 @@
         "type": "Monarch",
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M113TN1.webp",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Synical The Jackalope",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M113TN1.webp",
         "isHorizontal": false
       }
     },
@@ -5529,6 +6285,13 @@
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M114TN1.webp",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Velvet the Vampire",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M114TN1.webp",
+        "isHorizontal": false
       }
     },
     "name": "Velvet the Vampire (Monarch)",
@@ -5552,6 +6315,13 @@
         "type": "Monarch",
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M115MU1.webp",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Sevy: Prototype 7",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M115MU1.webp",
         "isHorizontal": false
       }
     },
@@ -5577,6 +6347,13 @@
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M115SW1.webp",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Beach Tiger Hu",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M115SW1.webp",
+        "isHorizontal": false
       }
     },
     "name": "Beach Tiger Hu (Monarch)",
@@ -5600,6 +6377,13 @@
         "type": "Monarch",
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M115TN1.webp",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Vigilant Officer Whimzee",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M115TN1.webp",
         "isHorizontal": false
       }
     },
@@ -5625,6 +6409,13 @@
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M117SW1.webp",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Captain Amanda",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M117SW1.webp",
+        "isHorizontal": false
       }
     },
     "name": "Captain Amanda (Monarch)",
@@ -5648,6 +6439,13 @@
         "type": "Monarch",
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M118MU1.webp",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Shining Pandora",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M118MU1.webp",
         "isHorizontal": false
       }
     },
@@ -5673,6 +6471,13 @@
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M119SW1.webp",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Commodore Gummy",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M119SW1.webp",
+        "isHorizontal": false
       }
     },
     "name": "Commodore Gummy (Monarch)",
@@ -5696,6 +6501,13 @@
         "type": "Monarch",
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M120MU1.webp",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Slumbering Yumanea",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M120MU1.webp",
         "isHorizontal": false
       }
     },
@@ -5721,6 +6533,13 @@
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M122MU1.webp",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Snare Weaver Amiya",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M122MU1.webp",
+        "isHorizontal": false
       }
     },
     "name": "Snare Weaver Amiya (Monarch)",
@@ -5744,6 +6563,13 @@
         "type": "Monarch",
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M125MU1.webp",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Space Cat Squchan",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M125MU1.webp",
         "isHorizontal": false
       }
     },
@@ -5769,6 +6595,13 @@
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M127SW1.webp",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Jorunna the Sea Bunny",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M127SW1.webp",
+        "isHorizontal": false
       }
     },
     "name": "Jorunna the Sea Bunny (Monarch)",
@@ -5792,6 +6625,13 @@
         "type": "Monarch",
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M129MU1.webp",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Spooky Sayu",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M129MU1.webp",
         "isHorizontal": false
       }
     },
@@ -5817,6 +6657,13 @@
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M129SW1.webp",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Leapfrog Lily",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M129SW1.webp",
+        "isHorizontal": false
       }
     },
     "name": "Leapfrog Lily (Monarch)",
@@ -5840,6 +6687,13 @@
         "type": "Monarch",
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M132SW1.webp",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Mantis Diver Kari",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M132SW1.webp",
         "isHorizontal": false
       }
     },
@@ -5865,6 +6719,13 @@
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M133MU1.webp",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Stage Princess Mari",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M133MU1.webp",
+        "isHorizontal": false
       }
     },
     "name": "Stage Princess Mari (Monarch)",
@@ -5888,6 +6749,13 @@
         "type": "Monarch",
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M134SW1.webp",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Naenia the Reborn",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M134SW1.webp",
         "isHorizontal": false
       }
     },
@@ -5913,6 +6781,13 @@
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M135MU1.webp",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Star Student Fleshy",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M135MU1.webp",
+        "isHorizontal": false
       }
     },
     "name": "Star Student Fleshy (Monarch)",
@@ -5936,6 +6811,13 @@
         "type": "Monarch",
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M136SW1.webp",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Sea Princess Mero",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M136SW1.webp",
         "isHorizontal": false
       }
     },
@@ -5961,6 +6843,13 @@
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M137MU1.webp",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Summoner Fleshy",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M137MU1.webp",
+        "isHorizontal": false
       }
     },
     "name": "Summoner Fleshy (Monarch)",
@@ -5984,6 +6873,13 @@
         "type": "Monarch",
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M140MU1.webp",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Tiefling Alchemist Yomi",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M140MU1.webp",
         "isHorizontal": false
       }
     },
@@ -6009,6 +6905,13 @@
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M140SW1.webp",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Pia: Deadly Duo",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M140SW1.webp",
+        "isHorizontal": false
       }
     },
     "name": "Pia: Deadly Duo (Monarch)",
@@ -6032,6 +6935,13 @@
         "type": "Monarch",
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M142SW1.webp",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Pia's Doppelganger",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M142SW1.webp",
         "isHorizontal": false
       }
     },
@@ -6057,6 +6967,13 @@
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M144MU1.webp",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Undercity Kiska",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M144MU1.webp",
+        "isHorizontal": false
       }
     },
     "name": "Undercity Kiska (Monarch)",
@@ -6080,6 +6997,13 @@
         "type": "Monarch",
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M144SW1.webp",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Piapi the Ambassador",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M144SW1.webp",
         "isHorizontal": false
       }
     },
@@ -6105,6 +7029,13 @@
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M146MU1.webp",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Yomi Arcane Jester",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M146MU1.webp",
+        "isHorizontal": false
       }
     },
     "name": "Yomi Arcane Jester (Monarch)",
@@ -6128,6 +7059,13 @@
         "type": "Monarch",
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M146SW1.webp",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Pippa Pebblesworth",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M146SW1.webp",
         "isHorizontal": false
       }
     },
@@ -6153,6 +7091,13 @@
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M149MU1.webp",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Stellar Healer Milky",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M149MU1.webp",
+        "isHorizontal": false
       }
     },
     "name": "Stellar Healer Milky (Monarch)",
@@ -6176,6 +7121,13 @@
         "type": "Monarch",
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M152MU1.webp",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Taiga: Celestial Marauder",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M152MU1.webp",
         "isHorizontal": false
       }
     },
@@ -6201,6 +7153,13 @@
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M153SW1.webp",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Summertime Hikaru",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M153SW1.webp",
+        "isHorizontal": false
       }
     },
     "name": "Summertime Hikaru (Monarch)",
@@ -6224,6 +7183,13 @@
         "type": "Monarch",
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M155SW1.webp",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Summertime Jorunna",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M155SW1.webp",
         "isHorizontal": false
       }
     },
@@ -6249,6 +7215,13 @@
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M157SW1.webp",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Summertime Dragonspit",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M157SW1.webp",
+        "isHorizontal": false
       }
     },
     "name": "Summertime Dragonspit (Monarch)",
@@ -6272,6 +7245,13 @@
         "type": "Monarch",
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M159SW1.webp",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Tatsu of the Deep",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M159SW1.webp",
         "isHorizontal": false
       }
     },
@@ -10305,6 +11285,13 @@
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/C003FF1.webp",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Arcane Chef Tatsu",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/C003FF1.webp",
+        "isHorizontal": false
       }
     },
     "name": "Arcane Chef Tatsu (Monarch)",
@@ -10376,6 +11363,13 @@
         "type": "Monarch",
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/C012FF1.webp",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Candygirl Aze",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/C012FF1.webp",
         "isHorizontal": false
       }
     },
@@ -10593,6 +11587,13 @@
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/C032FF1.webp",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Dictator Yoro",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/C032FF1.webp",
+        "isHorizontal": false
       }
     },
     "name": "Dictator Yoro (Monarch)",
@@ -10665,6 +11666,13 @@
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/C037FF1.webp",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Elf of Good Tidings",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/C037FF1.webp",
+        "isHorizontal": false
       }
     },
     "name": "Elf of Good Tidings (Monarch)",
@@ -10712,6 +11720,13 @@
         "type": "Monarch",
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/C042FF1.webp",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Explosion Artist Lia",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/C042FF1.webp",
         "isHorizontal": false
       }
     },
@@ -10785,6 +11800,13 @@
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/C046FF1.webp",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Flame Brawler Tora",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/C046FF1.webp",
+        "isHorizontal": false
       }
     },
     "name": "Flame Brawler Tora (Monarch)",
@@ -10856,6 +11878,13 @@
         "type": "Monarch",
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/C052FF1.webp",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Forest Guardian Chiyo",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/C052FF1.webp",
         "isHorizontal": false
       }
     },
@@ -11313,6 +12342,13 @@
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/C114FF1.webp",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Ricemaster Tatsurii",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/C114FF1.webp",
+        "isHorizontal": false
       }
     },
     "name": "Ricemaster Tatsurii (Monarch)",
@@ -11409,6 +12445,13 @@
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/C121FF1.webp",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Scholar of the Cosmos",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/C121FF1.webp",
+        "isHorizontal": false
       }
     },
     "name": "Scholar of the Cosmos (Monarch)",
@@ -11504,6 +12547,13 @@
         "type": "Monarch",
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/C132FF1.webp",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Shapeshifter Benzene",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/C132FF1.webp",
         "isHorizontal": false
       }
     },
@@ -11793,6 +12843,13 @@
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/LR020FF1.webp",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Confectionery Queen Aze",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/LR020FF1.webp",
+        "isHorizontal": false
       }
     },
     "name": "Confectionery Queen Aze (Monarch)",
@@ -11841,6 +12898,13 @@
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/LR035FF1.webp",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Dual Trigger Purity",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/LR035FF1.webp",
+        "isHorizontal": false
       }
     },
     "name": "Dual Trigger Purity (Monarch)",
@@ -11888,6 +12952,13 @@
         "type": "Monarch",
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/LR079FF1.webp",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Mantis Diver Kari",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/LR079FF1.webp",
         "isHorizontal": false
       }
     },
@@ -11961,6 +13032,13 @@
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/LR111FF1.webp",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Renn: The Public Menace",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/LR111FF1.webp",
+        "isHorizontal": false
       }
     },
     "name": "Renn: The Public Menace (Monarch)",
@@ -12008,6 +13086,13 @@
         "type": "Monarch",
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/LR170FF1.webp",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "World Serpent Quetzalli",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/LR170FF1.webp",
         "isHorizontal": false
       }
     },
@@ -12057,6 +13142,13 @@
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/R005FF1.webp",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Astral Knight Yuki",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/R005FF1.webp",
+        "isHorizontal": false
       }
     },
     "name": "Astral Knight Yuki (Monarch)",
@@ -12104,6 +13196,13 @@
         "type": "Monarch",
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/R007FF1.webp",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Astral Mage Yuna",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/R007FF1.webp",
         "isHorizontal": false
       }
     },
@@ -12201,6 +13300,13 @@
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/R065FF1.webp",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Ice Goddess Wyneria",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/R065FF1.webp",
+        "isHorizontal": false
       }
     },
     "name": "Ice Goddess Wyneria (Monarch)",
@@ -12248,6 +13354,13 @@
         "type": "Monarch",
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/R069FF1.webp",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Idol Queen Yuzu",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/R069FF1.webp",
         "isHorizontal": false
       }
     },
@@ -12297,6 +13410,13 @@
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/R073FF1.webp",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Kingpin Kori",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/R073FF1.webp",
+        "isHorizontal": false
       }
     },
     "name": "Kingpin Kori (Monarch)",
@@ -12344,6 +13464,13 @@
         "type": "Monarch",
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/R081FF1.webp",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Meeko: Mistress of Wagers",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/R081FF1.webp",
         "isHorizontal": false
       }
     },
@@ -12393,6 +13520,13 @@
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/R093FF1.webp",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Piapi the Ambassador",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/R093FF1.webp",
+        "isHorizontal": false
       }
     },
     "name": "Piapi the Ambassador (Monarch)",
@@ -12440,6 +13574,13 @@
         "type": "Monarch",
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/R097FF1.webp",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Professor Wonder",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/R097FF1.webp",
         "isHorizontal": false
       }
     },
@@ -12489,6 +13630,13 @@
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/R107FF1.webp",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Ranger Rabbit",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/R107FF1.webp",
+        "isHorizontal": false
       }
     },
     "name": "Ranger Rabbit (Monarch)",
@@ -12536,6 +13684,13 @@
         "type": "Monarch",
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/R126FF1.webp",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Sea Guardian Misaki",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/R126FF1.webp",
         "isHorizontal": false
       }
     },
@@ -12585,6 +13740,13 @@
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/R130FF1.webp",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Shaderu: Lord of Plunder",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/R130FF1.webp",
+        "isHorizontal": false
       }
     },
     "name": "Shaderu: Lord of Plunder (Monarch)",
@@ -12632,6 +13794,13 @@
         "type": "Monarch",
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/R134FF1.webp",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Shooting Star Nyaru",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/R134FF1.webp",
         "isHorizontal": false
       }
     },
@@ -12681,6 +13850,13 @@
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/R136FF1.webp",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Silent Tactician Mia",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/R136FF1.webp",
+        "isHorizontal": false
       }
     },
     "name": "Silent Tactician Mia (Monarch)",
@@ -12728,6 +13904,13 @@
         "type": "Monarch",
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/R154FF1.webp",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Time-Ripper Evie",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/R154FF1.webp",
         "isHorizontal": false
       }
     },
@@ -12800,6 +13983,13 @@
         "type": "Monarch",
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/R159FF1.webp",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Vari - Seeker of Chaos",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/R159FF1.webp",
         "isHorizontal": false
       }
     },
@@ -12993,6 +14183,13 @@
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/UC024FF1.webp",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Cyber Angel Hunni",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/UC024FF1.webp",
+        "isHorizontal": false
       }
     },
     "name": "Cyber Angel Hunni (Monarch)",
@@ -13113,6 +14310,13 @@
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/UC030FF1.webp",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Delinquent Nagi",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/UC030FF1.webp",
+        "isHorizontal": false
       }
     },
     "name": "Delinquent Nagi (Monarch)",
@@ -13208,6 +14412,13 @@
         "type": "Monarch",
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/UC049FF1.webp",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Flamecaster Gween",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/UC049FF1.webp",
         "isHorizontal": false
       }
     },
@@ -13401,6 +14612,13 @@
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/UC063FF1.webp",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Ice Alchemist Lavi",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/UC063FF1.webp",
+        "isHorizontal": false
       }
     },
     "name": "Ice Alchemist Lavi (Monarch)",
@@ -13472,6 +14690,13 @@
         "type": "Monarch",
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/UC077FF1.webp",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Kyou the Protector",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/UC077FF1.webp",
         "isHorizontal": false
       }
     },
@@ -13545,6 +14770,13 @@
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/UC103FF1.webp",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Pyxie of Mischief",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/UC103FF1.webp",
+        "isHorizontal": false
       }
     },
     "name": "Pyxie of Mischief (Monarch)",
@@ -13617,6 +14849,13 @@
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/UC123FF1.webp",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Scourge Sage Evie",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/UC123FF1.webp",
+        "isHorizontal": false
       }
     },
     "name": "Scourge Sage Evie (Monarch)",
@@ -13684,14 +14923,21 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Soul Huntress Zhillin",
+        "name": "Soul Huntress Zhilin",
         "type": "Monarch",
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/UC145FF1.webp",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Soul Huntress Zhilin",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/UC145FF1.webp",
+        "isHorizontal": false
       }
     },
-    "name": "Soul Huntress Zhillin (Monarch)",
+    "name": "Soul Huntress Zhilin (Monarch)",
     "type": "Monarch",
     "cost": 0,
     "Set": "Frost and Flames",
@@ -13736,6 +14982,13 @@
         "type": "Monarch",
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/UC147FF1.webp",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Space Huntress Yuzu",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/UC147FF1.webp",
         "isHorizontal": false
       }
     },
@@ -13784,6 +15037,13 @@
         "type": "Monarch",
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/UC151FF1.webp",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Strike Commander Yoro",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/UC151FF1.webp",
         "isHorizontal": false
       }
     },
@@ -13857,6 +15117,13 @@
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/UC158FF1.webp",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Undercity Empress",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/UC158FF1.webp",
+        "isHorizontal": false
       }
     },
     "name": "Undercity Empress (Monarch)",
@@ -13905,6 +15172,13 @@
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/UC164FF1.webp",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Voidwalker Faust",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/UC164FF1.webp",
+        "isHorizontal": false
       }
     },
     "name": "Voidwalker Faust (Monarch)",
@@ -13952,6 +15226,13 @@
         "type": "Monarch",
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/UC173FF1.webp",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Yoyomanian Tank Battalion",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/UC173FF1.webp",
         "isHorizontal": false
       }
     },
@@ -14025,6 +15306,13 @@
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/UR083FF1.webp",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Mia: The Ascended",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/UR083FF1.webp",
+        "isHorizontal": false
       }
     },
     "name": "Mia: The Ascended (Monarch)",
@@ -14072,6 +15360,13 @@
         "type": "Monarch",
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/UR085FF1.webp",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Mieko the Skyblazer",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/UR085FF1.webp",
         "isHorizontal": false
       }
     },
@@ -14121,6 +15416,13 @@
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/UR090FF1.webp",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Pastaroni the Entrancer",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/UR090FF1.webp",
+        "isHorizontal": false
       }
     },
     "name": "Pastaroni the Entrancer (Monarch)",
@@ -14168,6 +15470,13 @@
         "type": "Monarch",
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/UR099FF1.webp",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Project Eclipse",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/UR099FF1.webp",
         "isHorizontal": false
       }
     },
@@ -14241,6 +15550,13 @@
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/UR109FF1.webp",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Renegade Frieda",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/UR109FF1.webp",
+        "isHorizontal": false
       }
     },
     "name": "Renegade Frieda (Monarch)",
@@ -14288,6 +15604,13 @@
         "type": "Monarch",
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/UR117FF1.webp",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Rock Goddess Nyaru",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/UR117FF1.webp",
         "isHorizontal": false
       }
     },
@@ -14360,6 +15683,13 @@
         "type": "Monarch",
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/UR142FF1.webp",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Sojourner Nagi",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/UR142FF1.webp",
         "isHorizontal": false
       }
     },
@@ -14456,6 +15786,13 @@
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M066VS1.webp",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Aidrian The Mercenary",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M066VS1.webp",
+        "isHorizontal": false
       }
     },
     "name": "Aidrian The Mercenary (Monarch)",
@@ -14503,6 +15840,13 @@
         "type": "Monarch",
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M067VS1.webp",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Airborne Ami",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M067VS1.webp",
         "isHorizontal": false
       }
     },
@@ -14552,6 +15896,13 @@
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M068VS1.webp",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Airborne Faye",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M068VS1.webp",
+        "isHorizontal": false
       }
     },
     "name": "Airborne Faye (Monarch)",
@@ -14599,6 +15950,13 @@
         "type": "Monarch",
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M069VS1.webp",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Airborne Habu",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M069VS1.webp",
         "isHorizontal": false
       }
     },
@@ -14648,6 +16006,13 @@
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M070VS1.webp",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Airborne Kat",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M070VS1.webp",
+        "isHorizontal": false
       }
     },
     "name": "Airborne Kat (Monarch)",
@@ -14695,6 +16060,13 @@
         "type": "Monarch",
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M071VS1.webp",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Airborne Luci",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M071VS1.webp",
         "isHorizontal": false
       }
     },
@@ -14744,6 +16116,13 @@
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M072VS1.webp",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Ali The Ambassador",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M072VS1.webp",
+        "isHorizontal": false
       }
     },
     "name": "Ali The Ambassador (Monarch)",
@@ -14791,6 +16170,13 @@
         "type": "Monarch",
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M073VS1.webp",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Ami Unleashed",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M073VS1.webp",
         "isHorizontal": false
       }
     },
@@ -14864,6 +16250,13 @@
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M074VS1.webp",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Armament Ali",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M074VS1.webp",
+        "isHorizontal": false
       }
     },
     "name": "Armament Ali (Monarch)",
@@ -14911,6 +16304,13 @@
         "type": "Monarch",
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M075VS1.webp",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Armament Civi",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M075VS1.webp",
         "isHorizontal": false
       }
     },
@@ -14960,6 +16360,13 @@
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M076VS1.webp",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Armament Eve",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M076VS1.webp",
+        "isHorizontal": false
       }
     },
     "name": "Armament Eve (Monarch)",
@@ -15007,6 +16414,13 @@
         "type": "Monarch",
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M077VS1.webp",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Armament Josie",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M077VS1.webp",
         "isHorizontal": false
       }
     },
@@ -15056,6 +16470,13 @@
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M078VS1.webp",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Armament Lexie",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M078VS1.webp",
+        "isHorizontal": false
       }
     },
     "name": "Armament Lexie (Monarch)",
@@ -15103,6 +16524,13 @@
         "type": "Monarch",
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M079VS1.webp",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Armament Lina",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M079VS1.webp",
         "isHorizontal": false
       }
     },
@@ -15152,6 +16580,13 @@
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M080VS1.webp",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Armament Magi",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M080VS1.webp",
+        "isHorizontal": false
       }
     },
     "name": "Armament Magi (Monarch)",
@@ -15199,6 +16634,13 @@
         "type": "Monarch",
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M081VS1.webp",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Armament Texa",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M081VS1.webp",
         "isHorizontal": false
       }
     },
@@ -15344,6 +16786,13 @@
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M082VS1.webp",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Big Sister Civi",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M082VS1.webp",
+        "isHorizontal": false
       }
     },
     "name": "Big Sister Civi (Monarch)",
@@ -15391,6 +16840,13 @@
         "type": "Monarch",
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M083VS1.webp",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Blue Ghost Lexie",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M083VS1.webp",
         "isHorizontal": false
       }
     },
@@ -15440,6 +16896,13 @@
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M084VS1.webp",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Chibi Ali",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M084VS1.webp",
+        "isHorizontal": false
       }
     },
     "name": "Chibi Ali (Monarch)",
@@ -15487,6 +16950,13 @@
         "type": "Monarch",
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M085VS1.webp",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Chibi Ami",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M085VS1.webp",
         "isHorizontal": false
       }
     },
@@ -15536,6 +17006,13 @@
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M086VS1.webp",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Chibi Civi",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M086VS1.webp",
+        "isHorizontal": false
       }
     },
     "name": "Chibi Civi (Monarch)",
@@ -15583,6 +17060,13 @@
         "type": "Monarch",
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M087VS1.webp",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Chibi Desiree",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M087VS1.webp",
         "isHorizontal": false
       }
     },
@@ -15632,6 +17116,13 @@
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M088VS1.webp",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Chibi Eve",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M088VS1.webp",
+        "isHorizontal": false
       }
     },
     "name": "Chibi Eve (Monarch)",
@@ -15679,6 +17170,13 @@
         "type": "Monarch",
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M089VS1.webp",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Chibi Faye",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M089VS1.webp",
         "isHorizontal": false
       }
     },
@@ -15728,6 +17226,13 @@
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M090VS1.webp",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Chibi Habu",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M090VS1.webp",
+        "isHorizontal": false
       }
     },
     "name": "Chibi Habu (Monarch)",
@@ -15775,6 +17280,13 @@
         "type": "Monarch",
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M091VS1.webp",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Chibi Josie",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M091VS1.webp",
         "isHorizontal": false
       }
     },
@@ -15824,6 +17336,13 @@
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M092VS1.webp",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Chibi Kat",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M092VS1.webp",
+        "isHorizontal": false
       }
     },
     "name": "Chibi Kat (Monarch)",
@@ -15871,6 +17390,13 @@
         "type": "Monarch",
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M093VS1.webp",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Chibi Kidd",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M093VS1.webp",
         "isHorizontal": false
       }
     },
@@ -15920,6 +17446,13 @@
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M094VS1.webp",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Chibi Lexie",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M094VS1.webp",
+        "isHorizontal": false
       }
     },
     "name": "Chibi Lexie (Monarch)",
@@ -15967,6 +17500,13 @@
         "type": "Monarch",
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M095VS1.webp",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Chibi Lina",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M095VS1.webp",
         "isHorizontal": false
       }
     },
@@ -16016,6 +17556,13 @@
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M096VS1.webp",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Chibi Luci",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M096VS1.webp",
+        "isHorizontal": false
       }
     },
     "name": "Chibi Luci (Monarch)",
@@ -16063,6 +17610,13 @@
         "type": "Monarch",
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M097VS1.webp",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Chibi Magi",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M097VS1.webp",
         "isHorizontal": false
       }
     },
@@ -16112,6 +17666,13 @@
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M098VS1.webp",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Chibi Skyler",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M098VS1.webp",
+        "isHorizontal": false
       }
     },
     "name": "Chibi Skyler (Monarch)",
@@ -16159,6 +17720,13 @@
         "type": "Monarch",
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M099VS1.webp",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Chibi Texa",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M099VS1.webp",
         "isHorizontal": false
       }
     },
@@ -16208,6 +17776,13 @@
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M100VS1.webp",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Chibi Yorkie",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M100VS1.webp",
+        "isHorizontal": false
       }
     },
     "name": "Chibi Yorkie (Monarch)",
@@ -16255,6 +17830,13 @@
         "type": "Monarch",
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M101VS1.webp",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Civi Victorious",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M101VS1.webp",
         "isHorizontal": false
       }
     },
@@ -16328,6 +17910,13 @@
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M102VS1.webp",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Desiree The Researcher",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M102VS1.webp",
+        "isHorizontal": false
       }
     },
     "name": "Desiree The Researcher (Monarch)",
@@ -16400,6 +17989,13 @@
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M103VS1.webp",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Eve the Ironclad",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M103VS1.webp",
+        "isHorizontal": false
       }
     },
     "name": "Eve the Ironclad (Monarch)",
@@ -16447,6 +18043,13 @@
         "type": "Monarch",
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M104VS1.webp",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Faye Triumphant",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M104VS1.webp",
         "isHorizontal": false
       }
     },
@@ -16519,6 +18122,13 @@
         "type": "Monarch",
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M105VS1.webp",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Fleet Popstar Yorkie",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M105VS1.webp",
         "isHorizontal": false
       }
     },
@@ -16639,6 +18249,13 @@
         "type": "Monarch",
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M106VS1.webp",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Kidd the Destroyer",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M106VS1.webp",
         "isHorizontal": false
       }
     },
@@ -16856,6 +18473,13 @@
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M107VS1.webp",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Showboat Lina",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M107VS1.webp",
+        "isHorizontal": false
       }
     },
     "name": "Showboat Lina (Monarch)",
@@ -16904,6 +18528,13 @@
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M108VS1.webp",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Skyhawk Skyler",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M108VS1.webp",
+        "isHorizontal": false
       }
     },
     "name": "Skyhawk Skyler (Monarch)",
@@ -16927,6 +18558,13 @@
         "type": "Monarch",
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M109VS1.webp",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Super Hornet Faye",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M109VS1.webp",
         "isHorizontal": false
       }
     },
@@ -17024,6 +18662,13 @@
         "cost": 0,
         "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M110VS1.webp",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Test Pilot Anthony",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M110VS1.webp",
+        "isHorizontal": false
       }
     },
     "name": "Test Pilot Anthony (Monarch)",
@@ -17056,6 +18701,37 @@
     "Set": "Valkyries of Steel",
     "Element": "None",
     "Rarity": "Rare",
+    "ATK": 0,
+    "DEF": 0,
+    "Unity ATK": 0,
+    "Unity DEF": 0,
+    "Tier": 0
+  },
+  "#M110TN1": {
+    "id": "#M110TN1",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Skout the Cyberdemon",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/cards/M110TN1.webp",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Skout the Cyberdemon",
+        "type": "Monarch",
+        "cost": 0,
+        "image": "https://balbi.github.io/TCGA-Rift-Runners/backs/M110TN1.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Skout the Cyberdemon (Monarch)",
+    "type": "Monarch",
+    "cost": 0,
+    "Set": "Trickster Nights",
+    "Element": "None",
+    "Rarity": "Monarch",
     "ATK": 0,
     "DEF": 0,
     "Unity ATK": 0,

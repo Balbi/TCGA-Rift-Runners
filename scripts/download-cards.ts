@@ -61,6 +61,13 @@ type RiftRunnersCard = {
       image: string;
       isHorizontal: false;
     };
+    back?: {
+      name: string;
+      type: string;
+      cost: 0;
+      image: string;
+      isHorizontal: false;
+    };
   };
   name: string;
   type: string;
@@ -143,7 +150,8 @@ async function main() {
   const { cardsFile, sets, duplicateIds, imageSourcesById } = await generateCards();
   const outputPath = path.join(PROJECT_ROOT, OUTPUT_FILE);
   const existing = await readExistingCardsFile(outputPath);
-  const preservedCards = getPreservedCards(existing);
+  const preservedCards = getPreservedCards(existing, cardsFile);
+  preserveExistingBackFaces(cardsFile, existing);
   const outputCards = { ...cardsFile, ...preservedCards };
   const imagePlan = createImageDownloadPlan(cardsFile, imageSourcesById);
 
@@ -181,10 +189,10 @@ async function generateCards(): Promise<GeneratedCards> {
 async function dryRun(generated: CardsFile, existing: CardsFile, sets: string[], duplicateIds: string[], imagePlan: ImageDownloadPlan) {
   const generatedIds = Object.keys(generated);
   const existingIds = Object.keys(existing);
-  const preservedCards = getPreservedCards(existing);
+  const preservedCards = Object.fromEntries(Object.entries(generated).filter(([id]) => existing[id] && !imagePlan.downloads.some((download) => download.id === id)));
   const sharedIds = existingIds.filter((id) => generated[id]);
   const conflicts = sharedIds.flatMap((id) => compareCards(id, existing[id], generated[id]));
-  const missingExistingIds = existingIds.filter((id) => !generated[id] && !isTokenCard(existing[id]) && !isLocalImageCard(existing[id]));
+  const missingExistingIds = existingIds.filter((id) => !generated[id]);
   const newIds = generatedIds.filter((id) => !existing[id]);
   const generatedCardIds = generatedIds.filter((id) => isDownloadedCard(generated[id]));
   const badImages = generatedCardIds.filter((id) => {
@@ -245,8 +253,21 @@ async function readExistingCardsFile(outputPath: string): Promise<CardsFile> {
   }
 }
 
-function getPreservedCards(cardsFile: CardsFile): CardsFile {
-  return Object.fromEntries(Object.entries(cardsFile).filter(([, card]) => isTokenCard(card) || isLocalImageCard(card)));
+function getPreservedCards(cardsFile: CardsFile, generatedCards: CardsFile): CardsFile {
+  return Object.fromEntries(
+    Object.entries(cardsFile).filter(([id, card]) => isTokenCard(card) || isLocalImageCard(card) || !generatedCards[id])
+  );
+}
+
+function preserveExistingBackFaces(cardsFile: CardsFile, existing: CardsFile) {
+  for (const [id, card] of Object.entries(cardsFile)) {
+    const existingCard = existing[id];
+    if (!isDownloadedCard(card) || !existingCard || !isDownloadedCard(existingCard) || !existingCard.face.back) {
+      continue;
+    }
+
+    card.face.back = existingCard.face.back;
+  }
 }
 
 function createImageDownloadPlan(cardsFile: CardsFile, imageSourcesById: Map<string, string>): ImageDownloadPlan {
