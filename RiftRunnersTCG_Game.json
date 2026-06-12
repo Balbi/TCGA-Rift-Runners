@@ -40,6 +40,8 @@
       "Standard": {
         "reversedLegality": true,
         "general": {
+          "min": 50,
+          "max": 76,
           "maxPerCard": 3
         },
         "categories": [
@@ -60,68 +62,76 @@
   "gameplay": {
     "Standard": {
       "beforeGameStart": {
-        "initialBoardSetup": [
-          {
-            "createCardId": "XTOKEN",
-            "count": 1,
-            "destination": "C1R1"
-          },
-          {
-            "createCardId": "XTOKEN",
-            "count": 1,
-            "destination": "C1R2"
-          },
-          {
-            "createCardId": "XTOKEN",
-            "count": 1,
-            "destination": "C1R3"
-          },
-          {
-            "createCardId": "XTOKEN",
-            "count": 1,
-            "destination": "C2R1"
-          },
-          {
-            "createCardId": "XTOKEN",
-            "count": 1,
-            "destination": "C2R2"
-          },
-          {
-            "createCardId": "XTOKEN",
-            "count": 1,
-            "destination": "C2R3"
-          },
-          {
-            "createCardId": "XTOKEN",
-            "count": 1,
-            "destination": "C3R1"
-          },
-          {
-            "createCardId": "XTOKEN",
-            "count": 1,
-            "destination": "C3R2"
-          },
-          {
-            "createCardId": "XTOKEN",
-            "count": 1,
-            "destination": "C3R3"
-          },
-          {
-            "createCardId": "XTOKEN",
-            "count": 1,
-            "destination": "C4R1"
-          },
-          {
-            "createCardId": "XTOKEN",
-            "count": 1,
-            "destination": "C4R2"
-          },
-          {
-            "createCardId": "XTOKEN",
-            "count": 1,
-            "destination": "C4R3"
-          }
-        ]
+        "initialBoardSetup": {
+          "0": [
+            {
+              "drawFromTop": "Deck",
+              "count": 5,
+              "destination": "Hand",
+              "waitForPlayerTurn": false
+            },
+            {
+              "createCardId": "XTOKEN",
+              "count": 1,
+              "destination": "C1R1"
+            },
+            {
+              "createCardId": "XTOKEN",
+              "count": 1,
+              "destination": "C1R2"
+            },
+            {
+              "createCardId": "XTOKEN",
+              "count": 1,
+              "destination": "C1R3"
+            },
+            {
+              "createCardId": "XTOKEN",
+              "count": 1,
+              "destination": "C2R1"
+            },
+            {
+              "createCardId": "XTOKEN",
+              "count": 1,
+              "destination": "C2R2"
+            },
+            {
+              "createCardId": "XTOKEN",
+              "count": 1,
+              "destination": "C2R3"
+            },
+            {
+              "createCardId": "XTOKEN",
+              "count": 1,
+              "destination": "C3R1"
+            },
+            {
+              "createCardId": "XTOKEN",
+              "count": 1,
+              "destination": "C3R2"
+            },
+            {
+              "createCardId": "XTOKEN",
+              "count": 1,
+              "destination": "C3R3"
+            },
+            {
+              "createCardId": "XTOKEN",
+              "count": 1,
+              "destination": "C4R1"
+            },
+            {
+              "createCardId": "XTOKEN",
+              "count": 1,
+              "destination": "C4R2"
+            },
+            {
+              "createCardId": "XTOKEN",
+              "count": 1,
+              "destination": "C4R3"
+            }
+          ]
+        }
       },
       "newTurn": {
         "drawOnStart": true,
