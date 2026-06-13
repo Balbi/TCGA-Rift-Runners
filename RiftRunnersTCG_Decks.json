@@ -1,0 +1,466 @@
+[
+  {
+    "title": "Starter Deck: Blazing Glory",
+    "id": "886d68e9-b395-4ddb-bcf2-cc695e59bcd7",
+    "cardCount": 52,
+    "createdAt": "2026-06-13T21:42:41.290Z",
+    "lastModifiedAt": "2026-06-13T21:42:41.290Z",
+    "game": "Rift Runners TCG",
+    "format": [
+      "Standard"
+    ],
+    "deckList": {
+      "categoriesOrder": [
+        "Monarch",
+        "Fodder",
+        "Counter",
+        "Lore",
+        "Action",
+        "Effect"
+      ],
+      "Monarch": [
+        {
+          "count": 1,
+          "id": "#C042FF1"
+        },
+        {
+          "count": 1,
+          "id": "#UR117FF1"
+        },
+        {
+          "count": 1,
+          "id": "#R134FF1"
+        }
+      ],
+      "Fodder": [
+        {
+          "count": 3,
+          "id": "#C070FF1"
+        },
+        {
+          "count": 3,
+          "id": "#C047FF1"
+        },
+        {
+          "count": 3,
+          "id": "#C016FF1"
+        }
+      ],
+      "Counter": [
+        {
+          "count": 3,
+          "id": "#UC009FF1"
+        },
+        {
+          "count": 3,
+          "id": "#UC022FF1"
+        },
+        {
+          "count": 3,
+          "id": "#UC118FF1"
+        }
+      ],
+      "Lore": [
+        {
+          "count": 3,
+          "id": "#C045FF1"
+        },
+        {
+          "count": 3,
+          "id": "#R129FF1"
+        }
+      ],
+      "Action": [
+        {
+          "count": 3,
+          "id": "#UC021FF1"
+        },
+        {
+          "count": 2,
+          "id": "#UC050FF1"
+        },
+        {
+          "count": 3,
+          "id": "#UC061FF1"
+        },
+        {
+          "count": 3,
+          "id": "#C148FF1"
+        }
+      ],
+      "Effect": [
+        {
+          "count": 3,
+          "id": "#C041FF1"
+        },
+        {
+          "count": 2,
+          "id": "#UC048FF1"
+        },
+        {
+          "count": 3,
+          "id": "#UR116FF1"
+        },
+        {
+          "count": 3,
+          "id": "#R133FF1"
+        },
+        {
+          "count": 3,
+          "id": "#C074FF1"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Starter Deck: Icy Ascension",
+    "id": "dba7b750-02de-426a-a77d-ba098215a24a",
+    "cardCount": 52,
+    "createdAt": "2026-06-13T21:59:21.272Z",
+    "lastModifiedAt": "2026-06-13T22:02:36.404Z",
+    "game": "Rift Runners TCG",
+    "format": [
+      "Standard"
+    ],
+    "deckList": {
+      "categoriesOrder": [
+        "Monarch",
+        "Fodder",
+        "Counter",
+        "Action",
+        "Action Repeat",
+        "Effect",
+        "Lore",
+        "Armor"
+      ],
+      "Monarch": [
+        {
+          "count": 1,
+          "id": "#R065FF1"
+        },
+        {
+          "count": 1,
+          "id": "#UR083FF1"
+        },
+        {
+          "count": 1,
+          "id": "#C121FF1"
+        }
+      ],
+      "Fodder": [
+        {
+          "count": 3,
+          "id": "#C087FF1"
+        },
+        {
+          "count": 3,
+          "id": "#C086FF1"
+        },
+        {
+          "count": 3,
+          "id": "#C125SW1"
+        }
+      ],
+      "Counter": [
+        {
+          "count": 3,
+          "id": "#C001FF1"
+        },
+        {
+          "count": 3,
+          "id": "#UC118FF1"
+        }
+      ],
+      "Action": [
+        {
+          "count": 3,
+          "id": "#UC025FF1"
+        },
+        {
+          "count": 2,
+          "id": "#C057FF1"
+        },
+        {
+          "count": 3,
+          "id": "#UC067FF1"
+        },
+        {
+          "count": 3,
+          "id": "#C148FF1"
+        }
+      ],
+      "Action Repeat": [
+        {
+          "count": 2,
+          "id": "#UR039FF1"
+        }
+      ],
+      "Effect": [
+        {
+          "count": 2,
+          "id": "#UC062FF1"
+        },
+        {
+          "count": 2,
+          "id": "#C075FF1"
+        },
+        {
+          "count": 3,
+          "id": "#UR082FF1"
+        },
+        {
+          "count": 2,
+          "id": "#UC172FF1"
+        }
+      ],
+      "Lore": [
+        {
+          "count": 3,
+          "id": "#R064FF1"
+        },
+        {
+          "count": 3,
+          "id": "#C120FF1"
+        },
+        {
+          "count": 3,
+          "id": "#UC146FF1"
+        }
+      ],
+      "Armor": [
+        {
+          "count": 3,
+          "id": "#UC153FF1"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Starter Deck: Magic and Mayhem",
+    "id": "f43e9e3b-1fd8-4af9-a766-aee5283fe736",
+    "cardCount": 50,
+    "createdAt": "2026-06-13T22:04:09.400Z",
+    "lastModifiedAt": "2026-06-13T22:07:58.706Z",
+    "game": "Rift Runners TCG",
+    "format": [
+      "Standard"
+    ],
+    "deckList": {
+      "categoriesOrder": [
+        "Monarch",
+        "Fodder",
+        "Effect",
+        "Equip",
+        "Action",
+        "Lore",
+        "Counter"
+      ],
+      "Monarch": [
+        {
+          "count": 1,
+          "id": "#M017MU1"
+        },
+        {
+          "count": 1,
+          "id": "#M135MU1"
+        },
+        {
+          "count": 1,
+          "id": "#M149MU1"
+        }
+      ],
+      "Fodder": [
+        {
+          "count": 3,
+          "id": "#C131MU1"
+        },
+        {
+          "count": 3,
+          "id": "#C035MU1"
+        },
+        {
+          "count": 3,
+          "id": "#C015MU1"
+        }
+      ],
+      "Effect": [
+        {
+          "count": 3,
+          "id": "#UC018MU1"
+        },
+        {
+          "count": 3,
+          "id": "#UC052MU1"
+        },
+        {
+          "count": 3,
+          "id": "#R063MU1"
+        },
+        {
+          "count": 3,
+          "id": "#R136MU1"
+        },
+        {
+          "count": 3,
+          "id": "#UC145MU1"
+        }
+      ],
+      "Equip": [
+        {
+          "count": 3,
+          "id": "#R016MU1"
+        }
+      ],
+      "Action": [
+        {
+          "count": 3,
+          "id": "#UC062MU1"
+        },
+        {
+          "count": 3,
+          "id": "#C086MU1"
+        },
+        {
+          "count": 3,
+          "id": "#C150MU1"
+        }
+      ],
+      "Lore": [
+        {
+          "count": 3,
+          "id": "#UC072MU1"
+        },
+        {
+          "count": 2,
+          "id": "#R091MU1"
+        }
+      ],
+      "Counter": [
+        {
+          "count": 3,
+          "id": "#C088FF1"
+        },
+        {
+          "count": 3,
+          "id": "#R142MU1"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Starter Deck: Royal Domain",
+    "id": "4ea22fbe-2880-4e86-b491-0c5751f9745e",
+    "cardCount": 51,
+    "createdAt": "2026-06-13T22:08:58.796Z",
+    "lastModifiedAt": "2026-06-13T22:11:46.564Z",
+    "game": "Rift Runners TCG",
+    "format": [
+      "Standard"
+    ],
+    "deckList": {
+      "categoriesOrder": [
+        "Monarch",
+        "Fodder",
+        "Effect",
+        "Action",
+        "Lore",
+        "Equip",
+        "Counter"
+      ],
+      "Monarch": [
+        {
+          "count": 1,
+          "id": "#M044MU1"
+        },
+        {
+          "count": 1,
+          "id": "#M094MU1"
+        },
+        {
+          "count": 1,
+          "id": "#M106MU1"
+        }
+      ],
+      "Fodder": [
+        {
+          "count": 3,
+          "id": "#C098MU1"
+        },
+        {
+          "count": 3,
+          "id": "#C059MU1"
+        },
+        {
+          "count": 3,
+          "id": "#C020MU1"
+        }
+      ],
+      "Effect": [
+        {
+          "count": 3,
+          "id": "#UC008MU1"
+        },
+        {
+          "count": 3,
+          "id": "#R056MU1"
+        },
+        {
+          "count": 3,
+          "id": "#UC093MU1"
+        },
+        {
+          "count": 2,
+          "id": "#R105MU1"
+        },
+        {
+          "count": 3,
+          "id": "#UC150FF1"
+        }
+      ],
+      "Action": [
+        {
+          "count": 3,
+          "id": "#C120SW1"
+        },
+        {
+          "count": 2,
+          "id": "#UC102MU1"
+        },
+        {
+          "count": 3,
+          "id": "#C148FF1"
+        }
+      ],
+      "Lore": [
+        {
+          "count": 3,
+          "id": "#UC043MU1"
+        },
+        {
+          "count": 3,
+          "id": "#UC103MU1"
+        }
+      ],
+      "Equip": [
+        {
+          "count": 3,
+          "id": "#C051MU1"
+        },
+        {
+          "count": 3,
+          "id": "#C066MU1"
+        }
+      ],
+      "Counter": [
+        {
+          "count": 3,
+          "id": "#UC118FF1"
+        },
+        {
+          "count": 2,
+          "id": "#R141MU1"
+        }
+      ]
+    }
+  }
+]
